@@ -3,15 +3,20 @@
 ## Vocabulary + Grammar
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > **Beginner-friendly version:** I have kept your notebook content, corrected the places where the romaji/grammar was slightly wrong, and added extra examples. I’m using **mostly hiragana + romaji**, with only a small amount of kanji where useful.
 =======
 > **Note:** I have kept your notebook content and examples, while correcting spelling, particles, conjugations, and a few unnatural sentences. I have also added extra examples so the grammar is easier to understand and revise for **JLPT N5**.
 >>>>>>> e1aae6b (added lesson 13)
+=======
+> **Beginner-friendly version:** I have kept your notebook content, corrected the places where the romaji/grammar was slightly wrong, and added extra examples. I’m using **mostly hiragana + romaji**, with only a small amount of kanji where useful.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ---
 
 # 📚 PART 1 — VOCABULARY
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ## 1. Actions / Verbs
 
@@ -89,313 +94,93 @@ Literally, your stomach has become empty/hungry.
 > **Mou, onaka ga ippai desu.**  
 =======
 ## 1. Actions
+=======
+## 1. Actions / Verbs
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 |#|Japanese|Romaji|Meaning|
 |---|---|---|---|
-|1|遊びます|asobimasu|to play; to have a good time|
-|2|泳ぎます|oyogimasu|to swim|
-|3|迎えます|mukaemasu|to go to meet; to pick up; to welcome|
-|4|疲れます|tsukaremasu|to get tired|
-|5|出します|dashimasu|to take out; to submit; to send|
-|6|入ります|hairimasu|to enter|
-|7|出ます|demasu|to leave; to go out|
-|8|結婚します|kekkon shimasu|to marry; to get married|
-|9|買い物します|kaimono shimasu|to go shopping|
-|10|食事します|shokuji shimasu|to have a meal|
-|11|散歩します|sanpo shimasu|to take a walk; to stroll|
+|1|あそびます|asobimasu|to play / have a good time|
+|2|およぎます|oyogimasu|to swim|
+|3|むかえます|mukaemasu|to go to meet / welcome|
+|4|つかれます|tsukaremasu|to get tired|
+|5|だします|dashimasu|to take out / submit / send|
+|6|はいります|hairimasu|to enter|
+|7|でます|demasu|to leave / go out|
+|8|けっこんします|kekkon shimasu|to get married|
+|9|かいものします|kaimono shimasu|to go shopping|
+|10|しょくじします|shokuji shimasu|to have a meal|
+|11|さんぽします|sanpo shimasu|to take a walk|
+|12|たいへん（な）|taihen (na)|hard / tough / awful|
+|13|ほしい|hoshii|want|
+|14|さびしい|sabishii|lonely|
+|15|ひろい|hiroi|wide / spacious|
+|16|せまい|semai|narrow / small|
+|17|しやくしょ|shiyakusho|city hall / municipal office|
+|18|プール|puuru|swimming pool|
+|19|かわ|kawa|river|
+|20|けいざい|keizai|economy|
+|21|びじゅつ|bijutsu|fine arts|
+|22|つり|tsuri|fishing|
+|23|スキー|sukii|skiing|
+|24|かいぎ|kaigi|meeting / conference|
+|25|とうろく|touroku|registration|
+|26|しゅうまつ|shuumatsu|weekend|
+|27|〜ごろ|~goro|around / approximately|
+|28|なにか|nanika|something|
+|29|どこか|dokoka|somewhere / some place|
 
-### Examples
+### ⚠️ Correction
 
-> 公園で遊びます。  
-> **Kouen de asobimasu.**  
-> I play / have fun at the park.
+You wrote something like **「こうだします」**.
 
-> プールで泳ぎます。  
-> **Puuru de oyogimasu.**  
-> I swim in the pool.
+The correct word is:
 
-> 駅へ友達を迎えに行きます。  
-> **Eki e tomodachi o mukae ni ikimasu.**  
-> I go to the station to pick up my friend.
-
-> 今日は疲れました。  
-> **Kyou wa tsukaremashita.**  
-> I got tired today.
-
----
-
-# 2. 出します — dashimasu
-
-This verb has several useful meanings depending on context:
-
-- **to take out**
-    
-- **to submit**
-    
-- **to send**
-    
-
-### Examples
-
-> ゴミを出します。  
-> **Gomi o dashimasu.**  
-> I take out the garbage.
-
-> 宿題を出します。  
-> **Shukudai o dashimasu.**  
-> I submit my homework.
-
-> 手紙を出します。  
-> **Tegami o dashimasu.**  
-> I send a letter.
+> だします  
+> **dashimasu**  
+> to take out / submit / send
 
 ---
 
-# 3. 入ります / 出ます
+# 🍽️ 2. Useful Food / Feeling Expressions
 
-### 入ります — hairimasu
+## おなかがすきました
 
-→ enter / go into
+**onaka ga sukimashita**
 
-> 店に入ります。  
-> **Mise ni hairimasu.**  
-> I enter the shop.
-
-### 出ます — demasu
-
-→ leave / go out of
-
-> 店を出ます。  
-> **Mise o demasu.**  
-> I leave the shop.
-
-### ⭐ Important particle
-
-With **入ります**:
-
-> Place **に** 入ります。
-
-With **出ます**:
-
-> Place **を** 出ます。
-
----
-
-# 4. Marriage & Shopping
-
-### 結婚します — kekkon shimasu
-
-→ to get married
-
-> 来年、結婚します。  
-> **Rainen, kekkon shimasu.**  
-> I will get married next year.
-
-### 買い物します — kaimono shimasu
-
-→ to go shopping
-
-> デパートで買い物します。  
-> **Depaato de kaimono shimasu.**  
-> I go shopping at the department store.
-
----
-
-# 5. Food / Daily Activities
-
-### 食事します — shokuji shimasu
-
-→ have a meal
-
-> レストランで食事します。  
-> **Resutoran de shokuji shimasu.**
-
-### 散歩します — sanpo shimasu
-
-→ take a walk
-
-> 毎朝、公園を散歩します。  
-> **Maiasa, kouen o sanpo shimasu.**
-
----
-
-# 6. Adjectives
-
-|Japanese|Romaji|Meaning|
-|---|---|---|
-|大変な|taihen na|difficult; hard; terrible; tough|
-|欲しい|hoshii|wanted; desired|
-|寂しい|sabishii|lonely|
-|広い|hiroi|wide; spacious|
-|狭い|semai|narrow; small|
-
-### Examples
-
-> この仕事は大変です。  
-> **Kono shigoto wa taihen desu.**  
-> This work is difficult.
-
-> 新しい車が欲しいです。  
-> **Atarashii kuruma ga hoshii desu.**  
-> I want a new car.
-
-> 一人で寂しいです。  
-> **Hitori de sabishii desu.**  
-> I am lonely being alone.
-
-> この部屋は広いです。  
-> **Kono heya wa hiroi desu.**  
-> This room is spacious.
-
-> この道は狭いです。  
-> **Kono michi wa semai desu.**  
-> This road is narrow.
-
----
-
-# 7. Places
-
-|Japanese|Romaji|Meaning|
-|---|---|---|
-|市役所|shiyakusho|city hall / municipal office|
-|プール|puuru|swimming pool|
-|川|kawa|river|
-|経済|keizai|economy / economics|
-|美術|bijutsu|fine arts|
-|釣り|tsuri|fishing|
-|スキー|sukii|skiing|
-
-### Examples
-
-> 市役所へ行きます。  
-> **Shiyakusho e ikimasu.**  
-> I go to city hall.
-
-> 川で釣りをします。  
-> **Kawa de tsuri o shimasu.**  
-> I go fishing in the river.
-
-> スキーをします。  
-> **Sukii o shimasu.**  
-> I go skiing.
-
----
-
-# 8. Meetings & Plans
-
-### 会議 — kaigi
-
-→ meeting / conference
-
-> 明日、会議があります。  
-> **Ashita, kaigi ga arimasu.**  
-> There is a meeting tomorrow.
-
-### 約束 — yakusoku
-
-→ promise; appointment
-
-> 友達と約束があります。  
-> **Tomodachi to yakusoku ga arimasu.**  
-> I have an appointment/promise with my friend.
-
-### 約束します — yakusoku shimasu
-
-→ to promise / make an appointment
-
-> 友達と約束しました。  
-> **Tomodachi to yakusoku shimashita.**  
-> I made a promise/appointment with my friend.
-
----
-
-# 9. Time / Place Expressions
-
-### 週末 — shuumatsu
-
-→ weekend
-
-> 週末に映画を見ます。  
-> **Shuumatsu ni eiga o mimasu.**  
-> I watch a movie on the weekend.
-
-### ～ごろ — ~goro
-
-→ around / approximately
-
-Usually used with **time**.
-
-> 7時ごろ  
-> **shichi-ji goro**  
-> around 7 o'clock
-
-> 10時ごろ帰ります。  
-> **Juu-ji goro kaerimasu.**  
-> I will return around 10.
-
----
-
-# 10. Indefinite Words
-
-### 何か — nanika
-
-→ something
-
-> 何か食べます。  
-> **Nanika tabemasu.**  
-> I will eat something.
-
-### どこか — dokoka
-
-→ somewhere
-
-> どこかへ行きたいです。  
-> **Dokoka e ikitai desu.**  
-> I want to go somewhere.
-
-### ⭐ Pattern
-
-```text
-何 + か = something
-どこ + か = somewhere
-だれ + か = someone
-```
-
-Examples:
-
-> 誰かいますか。  
-> **Dareka imasu ka?**  
-> Is someone there?
-
----
-
-# 11. Physical Conditions
-
-### お腹が空きました
-
-**Onaka ga sukimashita**  
 → I'm hungry.
 
-Literally: "My stomach became empty."
+Literally, your stomach has become empty/hungry.
 
-> お腹が空きました。何か食べましょう。  
-> **Onaka ga sukimashita. Nanika tabemashou.**  
-> I'm hungry. Let's eat something.
+### Example
+
+> おなかがすきました。  
+> **Onaka ga sukimashita.**  
+> I'm hungry.
 
 ---
 
-### お腹がいっぱいです
+## おなかがいっぱいです
 
-**Onaka ga ippai desu**  
+**onaka ga ippai desu**
+
 → I'm full.
 
+<<<<<<< HEAD
 > もうお腹がいっぱいです。  
 > **Mou onaka ga ippai desu.**  
 >>>>>>> e1aae6b (added lesson 13)
+=======
+### Example
+
+> もう、おなかがいっぱいです。  
+> **Mou, onaka ga ippai desu.**  
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 > I'm already full.
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ## のどがかわきました
 
@@ -463,60 +248,82 @@ This is commonly used by restaurant staff.
 
 =======
 ### 喉が渇きました
+=======
+## のどがかわきました
 
-**Nodo ga kawakimashita**  
+**nodo ga kawakimashita**
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
+
 → I'm thirsty.
 
-> 喉が渇きました。水を飲みたいです。  
-> **Nodo ga kawakimashita. Mizu o nomitai desu.**  
-> I'm thirsty. I want to drink water.
+### Example
+
+> のどがかわきました。  
+> **Nodo ga kawakimashita.**  
+> I'm thirsty.
 
 ---
 
-# 12. Restaurant Expressions
+# 🗣️ 3. Restaurant / Useful Expressions
 
 ### そうですね
 
-**Sou desu ne.**  
-→ That's right / I agree / Let's see...
+**sou desu ne**
 
-It depends on context.
-
----
-
-### そうします
-
-**Sou shimasu.**  
-→ I'll do that / Let's do that.
-
-> A: ラーメンにしますか。  
-> **Raamen ni shimasu ka?**  
-> Will you have ramen?
-
-> B: はい、そうします。  
-> **Hai, sou shimasu.**  
-> Yes, I'll have that.
+→ That's right / Hmm, let's see / I agree.
 
 ---
 
-### ご注文は？
+### そうしましょう
 
-**Gochuumon wa?**  
-→ May I take your order? / What would you like to order?
+**sou shimashou**
 
-### 定食
+→ Let's do that.
 
-**Teishoku**  
+### Example
+
+> A: らーめんをたべませんか。  
+> **Raamen o tabemasen ka?**  
+> Shall we eat ramen?
+
+> B: そうしましょう。  
+> **Sou shimashou.**  
+> Let's do that.
+
+---
+
+### ごちゅうもんは？
+
+**go-chuumon wa?**
+
+→ What would you like to order?
+
+This is commonly used by restaurant staff.
+
+---
+
+### ていしょく
+
+**teishoku**
+
 → set meal
 
-### 牛丼
+---
 
+### ぎゅうどん
+
+**gyuudon**
+
+<<<<<<< HEAD
 **Gyuudon**  
 >>>>>>> e1aae6b (added lesson 13)
+=======
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 → beef bowl
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### しょうしょう おまちください
 
@@ -542,26 +349,41 @@ Example:
 > **Betsubetsu de onegaishimasu.**  
 =======
 ### 少々お待ちください
+=======
+### しょうしょう おまちください
 
-**Shoushou omachi kudasai.**  
+**shoushou omachi kudasai**
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
+
 → Please wait a moment.
 
-This is a **very polite** expression.
+> しょうしょう おまちください。  
+> **Shoushou omachi kudasai.**  
+> Please wait a moment.
 
 ---
 
-### 別々に
+### べつべつ
 
-**Betsu-betsu ni**  
+**betsubetsu**
+
 → separately / individually
 
+<<<<<<< HEAD
 > 別々にお願いします。  
 > **Betsu-betsu ni onegaishimasu.**  
 >>>>>>> e1aae6b (added lesson 13)
+=======
+Example:
+
+> べつべつで おねがいします。  
+> **Betsubetsu de onegaishimasu.**  
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 > Separately, please.
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # 🗣️ 4. More Expressions From Your Notes
 
@@ -592,22 +414,45 @@ This is a **very polite** expression.
 This is used when you want a **thing / noun**.
 =======
 ### ロシア
+=======
+# 🗣️ 4. More Expressions From Your Notes
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
-**Roshia**  
-→ Russia
+### そうですね
+
+**sou desu ne**
+
+→ That's right / Let's see.
+
+### そうしましょう
+
+**sou shimashou**
+
+→ Let's do that.
+
+### ごちゅうもんは？
+
+**Go-chuumon wa?**
+
+→ What is your order? / What would you like?
 
 ---
 
-# 📝 PART 2 — GRAMMAR
+# 🌸 PART 2 — GRAMMAR
 
-# I. 欲しい — Want a Noun
+# I. 「I WANT」 — ほしいです
 
+<<<<<<< HEAD
 This is used when you want **a thing/person/object**.
 >>>>>>> e1aae6b (added lesson 13)
+=======
+This is used when you want a **thing / noun**.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ## Pattern
 
 ```text
+<<<<<<< HEAD
 <<<<<<< HEAD
 わたしは + N + が + ほしいです。
 ```
@@ -749,112 +594,44 @@ Use:
 Verb-stem + たくないです
 =======
 N(person) は N が 欲しいです。
+=======
+わたしは + N + が + ほしいです。
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 ```
 
-> 私は車が欲しいです。  
+→ I want N.
+
+### Your example
+
+> わたしは くるまが ほしいです。  
 > **Watashi wa kuruma ga hoshii desu.**  
 > I want a car.
 
-### Your notebook examples
+### Important
 
-#### I want a car.
-
-> 私は車が欲しいです。  
-> **Watashi wa kuruma ga hoshii desu.**
-
-#### I don't want a car.
-
-> 私は車が欲しくないです。  
-> **Watashi wa kuruma ga hoshikunai desu.**
-
-More formal:
-
-> 私は車が欲しくありません。  
-> **Watashi wa kuruma ga hoshiku arimasen.**
-
-#### Do you want a car?
-
-> あなたは車が欲しいですか。  
-> **Anata wa kuruma ga hoshii desu ka?**
-
-### Answer
-
-> はい、欲しいです。  
-> **Hai, hoshii desu.**
-
-or
-
-> いいえ、欲しくないです。  
-> **Iie, hoshikunai desu.**
-
----
-
-# ⭐ What do you want?
-
-> 何が欲しいですか。  
-> **Nani ga hoshii desu ka?**
-
-What do you want?
-
-> 新しいスマホが欲しいです。  
-> **Atarashii sumaho ga hoshii desu.**
-
-I want a new smartphone.
-
----
-
-# ⚠️ Important: 欲しい is an い-adjective
+**ほしい** is an **い-adjective**.
 
 So:
 
-```text
-欲しい
-↓
-欲しくない
-↓
-欲しかった
-↓
-欲しくなかった
-```
-
-|Form|Japanese|Meaning|
-|---|---|---|
-|Positive|欲しいです|want|
-|Negative|欲しくないです|don't want|
-|Past|欲しかったです|wanted|
-|Past negative|欲しくなかったです|didn't want|
-
-### Examples
-
-> 車が欲しかったです。  
-> **Kuruma ga hoshikatta desu.**  
-> I wanted a car.
-
-> 車が欲しくなかったです。  
-> **Kuruma ga hoshikunakatta desu.**  
-> I didn't want a car.
+> ほしいです = want  
+> ほしくないです = don't want
 
 ---
 
-# II. 第三者 + 欲しがっています
-
-## When someone else wants something
-
-You generally **do not say**:
-
-> 彼は車が欲しいです。 ❌
-
-when simply reporting what another person wants.
-
-Instead:
+## Negative
 
 ```text
+<<<<<<< HEAD
 N(person) は N を 欲しがっています。
 >>>>>>> e1aae6b (added lesson 13)
+=======
+N + が + ほしくないです。
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 ```
 
 ### Example
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 > べんきょうしたくないです。  
 > **Benkyou shitakunai desu.**  
@@ -939,157 +716,188 @@ With:
 > 彼は車を欲しがっています。
 
 → **を**
+=======
+> わたしは くるまが ほしくないです。  
+> **Watashi wa kuruma ga hoshikunai desu.**  
+> I don't want a car.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ---
 
-# ☕ Offering Something
-
-When offering something to someone, natural Japanese is:
-
-> コーヒーはいかがですか。  
-> **Koohii wa ikaga desu ka?**  
-> Would you like some coffee?
-
-You can also say:
-
-> コーヒーを飲みませんか。  
-> **Koohii o nomimasen ka?**  
-> Would you like to have/drink some coffee?
-
-### Difference
-
-**いかがですか**  
-→ polite offer
-
-**～ませんか**  
-→ invitation / "Would you like to...?"
-
----
-
-# III. Verb + たいです
-
-## Want to do something
-
-This is different from 欲しい.
-
-### 欲しい
-
-→ want **a thing**
-
-### ～たい
-
-→ want **to do something**
-
-## Formation
-
-Take the **ます-stem**:
+## Question
 
 ```text
-買います → 買い → 買いたい
-会います → 会い → 会いたい
-行きます → 行き → 行きたい
-遊びます → 遊び → 遊びたい
+N + が + ほしいですか。
 ```
 
----
+> くるまが ほしいですか。  
+> **Kuruma ga hoshii desu ka?**  
+> Do you want a car?
 
-## Your notebook examples
+### Answer
 
-### Buy
+> はい、ほしいです。  
+> **Hai, hoshii desu.**  
+> Yes, I do.
 
-> 買います → 買いたいです  
-> **Kaitai desu**  
-> → want to buy
+or:
 
-### Meet
-
-> 会います → 会いたいです  
-> **Aitai desu**  
-> → want to meet
-
-### Go
-
-> 行きます → 行きたいです  
-> **Ikitai desu**  
-> → want to go
-
-### Play
-
-> 遊びます → 遊びたいです  
-> **Asobitai desu**  
-> → want to play / have fun
+> いいえ、ほしくないです。  
+> **Iie, hoshikunai desu.**  
+> No, I don't.
 
 ---
 
-# Examples
+# ⭐ 「What do you want?」
+
+> なにが ほしいですか。  
+> **Nani ga hoshii desu ka?**
+
+→ What do you want?
+
+### Answer
+
+> あたらしい かばんが ほしいです。  
+> **Atarashii kaban ga hoshii desu.**  
+> I want a new bag.
+
+---
+
+# II. 「I FEEL LIKE / WANT TO DO SOMETHING」
+
+When you want to **do an action**, use:
+
+```text
+Verb ます-stem + たいです
+```
+
+This means:
+
+> want to do ~
+
+---
+
+# 🔥 How to make 〜たい
+
+Take the **ます form** and remove **ます**.
+
+|Verb|ます-stem|+ たい|
+|---|---|---|
+|かいます|かい|かいたい|
+|たべます|たべ|たべたい|
+|のみます|のみ|のみたい|
+|いきます|いき|いきたい|
+|みます|み|みたい|
+|あそびます|あそび|あそびたい|
+|します|し|したい|
+
+---
+
+## Example
 
 ### I want to buy a car.
 
-> 私は車を買いたいです。  
+> わたしは くるまを かいたいです。  
 > **Watashi wa kuruma o kaitai desu.**
 
-### I am hungry. I want to eat a hamburger.
+---
 
-> お腹が空きました。ハンバーガーを食べたいです。  
-> **Onaka ga sukimashita. Hanbaagaa o tabetai desu.**
+### I want to eat ramen.
 
-### I don't want to study.
-
-> 勉強したくないです。  
-> **Benkyou shitakunai desu.**
-
-### What do you want to do?
-
-> 何をしたいですか。  
-> **Nani o shitai desu ka?**
+> わたしは ラーメンを たべたいです。  
+> **Watashi wa raamen o tabetai desu.**
 
 ---
 
-# IV. Past Form of ～たい
+### I want to drink coffee.
 
-## Wanted to do / Didn't want to do
-
-Because **～たい** behaves like an い-adjective:
-
-```text
-～たい
-↓
-～たかった
-```
-
-and:
-
-```text
-～たい
-↓
-～たくない
-↓
-～たくなかった
-```
+> コーヒーを のみたいです。  
+> **Koohii o nomitai desu.**
 
 ---
 
-## Positive Past
+# III. Negative 「〜たくないです」
 
-> 行きたいです。  
-> **Ikitai desu.**  
-> I want to go.
+To say:
 
-↓
+> **I don't want to do ~**
 
-> 行きたかったです。  
-> **Ikitakatta desu.**  
-> I wanted to go.
+Use:
 
-### Your example
+```text
+Verb-stem + たくないです
+```
 
+<<<<<<< HEAD
 > 韓国へ行きたかったです。  
 >>>>>>> e1aae6b (added lesson 13)
+=======
+### Example
+
+> べんきょうしたくないです。  
+> **Benkyou shitakunai desu.**  
+> I don't want to study.
+
+---
+
+### Buy
+
+> くるまを かいたくないです。  
+> **Kuruma o kaitakunai desu.**  
+> I don't want to buy a car.
+
+---
+
+### Eat
+
+> にくを たべたくないです。  
+> **Niku o tabetakunai desu.**  
+> I don't want to eat meat.
+
+---
+
+# 🧠 Very Important Difference
+
+### Thing → ほしい
+
+> くるまが ほしいです。  
+> I want a car.
+
+### Action → たい
+
+> くるまを かいたいです。  
+> I want to buy a car.
+
+Think:
+
+**NOUN → ほしい**
+
+**VERB → たい**
+
+---
+
+# IV. 「I WANTED TO DO」
+
+Your notebook also covers the past form.
+
+## Positive
+
+```text
+Verb-stem + たかったです
+```
+
+→ wanted to do ~
+
+### Example
+
+> かんこくへ いきたかったです。  
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 > **Kankoku e ikitakatta desu.**  
 > I wanted to go to Korea.
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### More examples
 
@@ -1233,90 +1041,158 @@ Verb-stem + ましょう
 This is one of the **most important grammar points in Lesson 13**.
 =======
 ## Negative Past
+=======
+### More examples
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
-> 行きたくなかったです。  
-> **Ikitaku nakatta desu.**
+> にほんへ いきたかったです。  
+> **Nihon e ikitakatta desu.**  
+> I wanted to go to Japan.
 
-I didn't want to go.
+> すしを たべたかったです。  
+> **Sushi o tabetakatta desu.**  
+> I wanted to eat sushi.
+
+> えいがを みたかったです。  
+> **Eiga o mitakatta desu.**  
+> I wanted to watch a movie.
+
+---
+
+# Negative Past
+
+```text
+Verb-stem + たくなかったです
+```
+
+→ didn't want to do ~
 
 ### Example
 
-> 昨日は学校へ行きたくなかったです。  
-> **Kinou wa gakkou e ikitaku nakatta desu.**  
-> I didn't want to go to school yesterday.
+> べんきょうしたくなかったです。  
+> **Benkyou shitakunakatta desu.**  
+> I didn't want to study.
 
 ---
 
-# V. ～たがっています
+## 🧠 たい Forms
 
-## Someone else seems to want to do something
+|Meaning|Form|
+|---|---|
+|want to do|～たいです|
+|don't want to do|～たくないです|
+|wanted to do|～たかったです|
+|didn't want to do|～たくなかったです|
 
-For **another person's desire to perform an action**:
+### Easy memory:
+
+**たい → たくない → たかった → たくなかった**
+
+---
+
+# V. 「He / She Wants To...」 — ～たがっています
+
+This is an important correction to your notes.
+
+When **I** want to do something:
+
+> わたしは いきたいです。
+
+But when talking about **another person's visible desire**, use:
 
 ```text
-N(person) は Vます-stem + たがっています。
+Verb-stem + たがっています
 ```
 
-### Your example
+### Example
 
-❌ 彼女はロシアへ行きたいです。
-
-Better:
-
-> 彼女はロシアへ行きたがっています。  
-> **Kanojo wa Roshia e ikitagatte imasu.**
-
-She wants to go to Russia.
+> かれは おおさかへ いきたがっています。  
+> **Kare wa Oosaka e ikitagatteimasu.**  
+> He wants to go to Osaka.
 
 ---
 
-## More examples
+### Another example
 
-### He wants to buy a car.
+> かのじょは コーヒーを のみたがっています。  
+> **Kanojo wa koohii o nomitagatteimasu.**  
+> She wants to drink coffee.
 
-> 彼は車を買いたがっています。  
-> **Kare wa kuruma o kaitagatte imasu.**
+### Compare:
 
-### She wants to eat sushi.
+> わたしは コーヒーを のみたいです。  
+> I want to drink coffee.
 
-> 彼女は寿司を食べたがっています。  
-> **Kanojo wa sushi o tabetagatte imasu.**
-
-### My friend wants to go to Japan.
-
-> 友達は日本へ行きたがっています。  
-> **Tomodachi wa Nihon e ikitagatte imasu.**
+> かれは コーヒーを のみたがっています。  
+> He wants to drink coffee.
 
 ---
 
-# ⭐ VERY IMPORTANT
+# VI. 「Would you like...?」
 
-|Who?|Pattern|
-|---|---|
-|I / we|Vたいです|
-|You|Vたいですか|
-|He / she / another person|Vたがっています|
+Your notebook has:
 
-Example:
+> コーヒーを のみたいですか。
 
-> 私は日本へ行きたいです。  
-> I want to go to Japan.
+This is grammatically possible and means:
 
-> 彼は日本へ行きたがっています。  
-> He wants to go to Japan.
+> Do you want to drink coffee?
+
+But for a **polite offer**, these are more natural:
+
+### Polite
+
+> コーヒーは いかがですか。  
+> **Koohii wa ikaga desu ka?**  
+> Would you like some coffee?
+
+### Casual / friendly
+
+> コーヒーを のみませんか。  
+> **Koohii o nomimasen ka?**  
+> Would you like to have coffee?
 
 ---
 
-# VI. Place + Purpose
+# VII. 「Let's Do Something」
 
-## Go somewhere to do something
+For suggestions:
 
+<<<<<<< HEAD
 This is one of the most important patterns in Lesson 13.
 >>>>>>> e1aae6b (added lesson 13)
+=======
+```text
+Verb-stem + ましょう
+```
+
+→ Let's ~
+
+### Examples
+
+> たべましょう。  
+> **Tabemashou.**  
+> Let's eat.
+
+> いきましょう。  
+> **Ikimashou.**  
+> Let's go.
+
+> あそびましょう。  
+> **Asobimashou.**  
+> Let's play.
+
+---
+
+# VIII. 「GO TO A PLACE TO DO SOMETHING」
+
+This is one of the **most important grammar points in Lesson 13**.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ## Pattern
 
 ```text
+<<<<<<< HEAD
 <<<<<<< HEAD
 Place へ / に + Verb-stem + に + いきます
 ```
@@ -1377,33 +1253,76 @@ When using a verb as the purpose:
 > **Puuru e oyogi ni ikimasu.**
 =======
 Place へ + Vます-stem + に + 行きます
+=======
+Place へ / に + Verb-stem + に + いきます
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 ```
 
-Meaning:
-
-> **Go to a place in order to do something.**
+→ Go to a place **to do something**.
 
 ---
 
-### Example from your notebook
+## Example from your notebook
 
-### I went to Japan to study.
+### I go to Japan to study.
 
-> 日本へ勉強しに行きます。  
-> **Nihon e benkyou shi ni ikimasu.**
+> にほんへ べんきょうに いきます。  
+> **Nihon e benkyou ni ikimasu.**
 
-More naturally:
+I go to Japan to study.
 
-> 日本へ日本語を勉強しに行きます。  
-> **Nihon e Nihongo o benkyou shi ni ikimasu.**
+---
 
+<<<<<<< HEAD
 I go to Japan to study Japanese.
 >>>>>>> e1aae6b (added lesson 13)
+=======
+### I go to Japan to study Japanese.
+
+> にほんへ にほんごを べんきょうしに いきます。  
+> **Nihon e nihongo o benkyou shi ni ikimasu.**
+
+→ I go to Japan to study Japanese.
+
+### ⚠️ Important
+
+When using a verb as the purpose:
+
+> べんきょうします  
+> ↓  
+> べんきょうし + に  
+> ↓  
+> べんきょうしに いきます
+
+---
+
+# More Examples
+
+### I go to the library to study.
+
+> としょかんへ べんきょうしに いきます。  
+> **Toshokan e benkyou shi ni ikimasu.**
+
+---
+
+### I go to the supermarket to buy food.
+
+> スーパーへ たべものを かいに いきます。  
+> **Suupaa e tabemono o kai ni ikimasu.**
+
+---
+
+### I go to the pool to swim.
+
+> プールへ およぎに いきます。  
+> **Puuru e oyogi ni ikimasu.**
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ---
 
 ### I go home to see my parents.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 > うちへ りょうしんに あいに かえります。  
 > **Uchi e ryoushin ni ai ni kaerimasu.**
@@ -1535,110 +1454,144 @@ Place を でます
 > **Ryoushin ni ai ni ie e kaerimasu.**
 
 I go home to see my parents.
+=======
+> うちへ りょうしんに あいに かえります。  
+> **Uchi e ryoushin ni ai ni kaerimasu.**
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ---
 
-# ⭐ How to form it
+# IX. 「Where will you go to study?」
 
-Use the **ます-stem**:
+### Question
 
-|Verb|Stem|Purpose|
-|---|---|---|
-|行きます|行き|行きに|
-|買います|買い|買いに|
-|食べます|食べ|食べに|
-|見ます|見|見に|
-|勉強します|勉強し|勉強しに|
-|遊びます|遊び|遊びに|
+> どこへ べんきょうしに いきますか。  
+> **Doko e benkyou shi ni ikimasu ka?**
 
-### Examples
-
-> 映画を見に行きます。  
-> **Eiga o mi ni ikimasu.**  
-> I go to watch a movie.
-
-> 買い物をしに行きます。  
-> **Kaimono o shi ni ikimasu.**  
-> I go shopping.
-
-> 友達に会いに行きます。  
-> **Tomodachi ni ai ni ikimasu.**  
-> I go to meet my friend.
-
----
-
-# VII. Asking About Purpose
-
-## Pattern
-
-```text
-Interrogative + を + Vます-stem + に + 行きますか。
-```
-
-### What are you going there to do?
-
-> 何をしに行きますか。  
-> **Nani o shi ni ikimasu ka?**
-
-What are you going there to do?
+→ Where will you go to study?
 
 ### Answer
 
-> 勉強しに行きます。  
-> **Benkyou shi ni ikimasu.**
-
-I am going there to study.
-
----
-
-### Where will you go to study?
-
-> どこへ勉強しに行きますか。  
-> **Doko e benkyou shi ni ikimasu ka?**
-
-> 図書館へ勉強しに行きます。  
+> としょかんへ べんきょうしに いきます。  
 > **Toshokan e benkyou shi ni ikimasu.**
 
-I go to the library to study.
+→ I will go to the library to study.
 
 ---
 
-# VIII. Entering / Leaving a Place
+# X. 「What are you going there for?」
 
-This is a very useful particle distinction.
-
-## Enter
+Use:
 
 ```text
-Place + に + 入ります
+なにを + Verb-stem + に + いきますか
 ```
 
-> 店に入ります。  
+### Example
+
+> あなたは なにを しに いきますか。  
+> **Anata wa nani o shi ni ikimasu ka?**
+
+→ What are you going there to do?
+
+### Answer
+
+> べんきょうしに いきます。  
+> **Benkyou shi ni ikimasu.**
+
+→ I'm going to study.
+
+---
+
+# XI. 「Because...」 — ので
+
+Your notebook includes an example like:
+
+> Because it's my family's first time in Japan, I will go to the airport to pick them up.
+
+A natural beginner sentence is:
+
+> かぞくが はじめて にほんへ きますので、くうこうへ むかえに いきます。  
+> **Kazoku ga hajimete Nihon e kimasu node, kuukou e mukae ni ikimasu.**
+
+→ Because my family is coming to Japan for the first time, I will go to the airport to meet them.
+
+### ので = because / since
+
+For now, remember:
+
+> **A ので、B**  
+> Because A, B.
+
+Example:
+
+> あめですので、うちへ かえります。  
+> **Ame desu node, uchi e kaerimasu.**  
+> Because it is raining, I will go home.
+
+---
+
+# XII. 「Where? / What? + Purpose」
+
+You can combine the purpose grammar with question words.
+
+### Where?
+
+> どこへ いきますか。  
+> Where are you going?
+
+### What to do?
+
+> なにを しに いきますか。  
+> What are you going to do?
+
+### Why / for what purpose?
+
+> なにを しに いきますか。  
+> What are you going there to do?
+
+---
+
+# XIII. Entering / Leaving a Place
+
+Your notes also cover **はいります** and **でます**.
+
+## Enter a place
+
+```text
+Place に はいります
+```
+
+> みせに はいります。  
 > **Mise ni hairimasu.**  
 > I enter the shop.
 
-### Your example
+### Example
 
-> あの店に入りましょう。  
-> **Ano mise ni hairimashou.**
-
-Let's go inside that shop.
+> あの みせに はいりましょう。  
+> **Ano mise ni hairimashou.**  
+> Let's go inside that shop.
 
 ---
 
-## Leave
+## Leave a place
 
 ```text
-Place + を + 出ます
+Place を でます
 ```
 
+<<<<<<< HEAD
 > 店を出ます。  
 >>>>>>> e1aae6b (added lesson 13)
+=======
+> みせを でます。  
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 > **Mise o demasu.**  
 > I leave the shop.
 
 ### Example
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 > 7じに みせを でました。  
 > **Shichi-ji ni mise o demashita.**  
@@ -1698,78 +1651,62 @@ This is worth memorizing.
 =======
 > 7時に店を出ました。  
 > **Shichi-ji ni mise o demashita.**
+=======
+> 7じに みせを でました。  
+> **Shichi-ji ni mise o demashita.**  
+> I left the shop at 7.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
-I left the shop at 7 o'clock.
+### ⭐ Important
+
+**はいります → に**
+
+> みせ**に** はいります。
+
+**でます → を**
+
+> みせ**を** でます。
+
+This is worth memorizing.
 
 ---
 
-# ⭐ Remember
+# XIV. なにか / どこか
 
-```text
-入ります → に
-出ます → を
-```
+## なにか
 
-Think:
-
-> **Go INTO → に**
-
-> **Go OUT OF → を**
-
----
-
-# IX. 何か / どこか
-
-## Something / Somewhere
-
-### 何か — nanika
+**nanika**
 
 → something
 
-> 何か食べたいです。  
+> なにか たべたいです。  
 > **Nanika tabetai desu.**  
 > I want to eat something.
 
-### Would you like to eat something?
-
-> 何か食べませんか。  
-> **Nanika tabemasen ka?**
-
-Would you like to eat something?
-
 ---
 
-### どこか — dokoka
+## どこか
 
-→ somewhere
+**dokoka**
 
-> どこかへ行きたいです。  
+→ somewhere / some place
+
+> どこかへ いきたいです。  
 > **Dokoka e ikitai desu.**  
 > I want to go somewhere.
 
-### Your weekend example
-
-Your notebook has:
-
-> この週末にどこかへ遊びます。
-
-A more natural sentence is:
-
-> この週末、どこかへ遊びに行きます。  
-> **Kono shuumatsu, dokoka e asobi ni ikimasu.**
-
-I will go somewhere to have fun this weekend.
-
 ---
 
-# 🌸 EXTRA EXAMPLES FROM YOUR NOTES
+# ⭐ Important Pattern
 
-## 1. Picking up family at the airport
+### なにか + Verb
 
-Your idea:
+> なにか たべたいです。  
+> I want to eat something.
 
-> Because it is my family's first time in Japan, I will go to the airport to pick them up.
+### どこか + へ + Verb
 
+<<<<<<< HEAD
 A natural Japanese version:
 
 > 家族は日本へ来るのが初めてなので、空港へ迎えに行きます。  
@@ -1797,6 +1734,10 @@ Because it is my family's first time coming to Japan, I will go to the airport t
 
 I go to the Sapporo Snow Festival every year.
 >>>>>>> e1aae6b (added lesson 13)
+=======
+> どこかへ いきたいです。  
+> I want to go somewhere.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ---
 
@@ -1804,6 +1745,7 @@ I go to the Sapporo Snow Festival every year.
 
 |Grammar|Pattern|Meaning|
 |---|---|---|
+<<<<<<< HEAD
 <<<<<<< HEAD
 |Want a thing|N が ほしいです|want N|
 |Don't want a thing|N が ほしくないです|don't want N|
@@ -1815,11 +1757,19 @@ I go to the Sapporo Snow Festival every year.
 |Didn't want|N が 欲しくなかったです|didn't want N|
 |Someone wants noun|N(person) は N を 欲しがっています|someone wants N|
 >>>>>>> e1aae6b (added lesson 13)
+=======
+|Want a thing|N が ほしいです|want N|
+|Don't want a thing|N が ほしくないです|don't want N|
+|Ask what someone wants|N が ほしいですか|Do you want N?|
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 |Want to do|V-stem + たいです|want to do|
 |Don't want to do|V-stem + たくないです|don't want to do|
 |Wanted to do|V-stem + たかったです|wanted to do|
 |Didn't want to do|V-stem + たくなかったです|didn't want to do|
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 |Another person wants to do|V-stem + たがっています|he/she wants to do|
 |Go somewhere to do|Place へ + V-stem + に + いきます|go to place to do|
 |Come somewhere to do|Place へ + V-stem + に + きます|come to place to do|
@@ -1827,6 +1777,7 @@ I go to the Sapporo Snow Festival every year.
 |Enter|Place に はいります|enter a place|
 |Leave|Place を でます|leave a place|
 |Something|なにか|something|
+<<<<<<< HEAD
 |Somewhere|どこか|somewhere|
 |Because|～ので|because / since|
 |Let's|V-stem + ましょう|let's do|
@@ -1840,11 +1791,17 @@ I go to the Sapporo Snow Festival every year.
 |Something|何か|something|
 |Somewhere|どこか|somewhere|
 >>>>>>> e1aae6b (added lesson 13)
+=======
+|Somewhere|どこか|somewhere|
+|Because|～ので|because / since|
+|Let's|V-stem + ましょう|let's do|
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ---
 
 # 🔥 THE MOST IMPORTANT DIFFERENCES
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ## ① Want a thing
 
@@ -1872,27 +1829,31 @@ I go to the Sapporo Snow Festival every year.
 > He wants to buy a car.
 =======
 ## ① 欲しい vs ～たい
+=======
+## ① Want a thing
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
-### 欲しい = want a **THING**
-
-> 車が欲しいです。  
+> くるまが **ほしいです**。  
 > I want a car.
 
-### ～たい = want to **DO**
+## ② Want to do something
 
-> 車を買いたいです。  
+> くるまを **かいたいです**。  
 > I want to buy a car.
 
----
+## ③ Wanted to do something
 
-## ② 私が言う vs 他の人が言う
+> くるまを **かいたかったです**。  
+> I wanted to buy a car.
 
-### I want...
+## ④ Don't want to do something
 
-> 私は日本へ行きたいです。
+> くるまを **かいたくないです**。  
+> I don't want to buy a car.
 
-### He wants...
+## ⑤ Someone else wants to do something
 
+<<<<<<< HEAD
 > 彼は日本へ行きたがっています。
 
 ---
@@ -1919,11 +1880,16 @@ I go to the Sapporo Snow Festival every year.
 
 > 日本へ日本語を勉強**しに行きます**。
 >>>>>>> e1aae6b (added lesson 13)
+=======
+> かれは くるまを **かいたがっています**。  
+> He wants to buy a car.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
 ---
 
 # 🎯 20 PRACTICE SENTENCES
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### Want
 
@@ -1938,11 +1904,19 @@ I go to the Sapporo Snow Festival every year.
 3. なにが ほしいですか。  
 =======
 ### Wanting things
+=======
+### Want
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
-1. 新しいパソコンが欲しいです。  
-    **Atarashii pasokon ga hoshii desu.**  
+1. わたしは くるまが ほしいです。  
+    **Watashi wa kuruma ga hoshii desu.**  
+    → I want a car.
+    
+2. わたしは あたらしい パソコンが ほしいです。  
+    **Watashi wa atarashii pasokon ga hoshii desu.**  
     → I want a new computer.
     
+<<<<<<< HEAD
 2. お金が欲しいです。  
     **Okane ga hoshii desu.**  
     → I want money.
@@ -1953,10 +1927,14 @@ I go to the Sapporo Snow Festival every year.
     
 4. 何が欲しいですか。  
 >>>>>>> e1aae6b (added lesson 13)
+=======
+3. なにが ほしいですか。  
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
     **Nani ga hoshii desu ka?**  
     → What do you want?
     
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ---
 
@@ -2051,15 +2029,21 @@ I go to the Sapporo Snow Festival every year.
 18. みせを でます。  
 =======
 ### Wanting actions
+=======
+---
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
-5. 日本へ行きたいです。  
+### Want to do
+
+4. にほんへ いきたいです。  
     **Nihon e ikitai desu.**  
     → I want to go to Japan.
     
-6. 寿司を食べたいです。  
+5. すしを たべたいです。  
     **Sushi o tabetai desu.**  
     → I want to eat sushi.
     
+<<<<<<< HEAD
 7. 映画を見たいです。  
     **Eiga o mitai desu.**  
     → I want to watch a movie.
@@ -2142,10 +2126,16 @@ I go to the Sapporo Snow Festival every year.
     **Shuumatsu, dokoka e asobi ni ikimasen ka?**  
     → Would you like to go somewhere for fun this weekend?
 >>>>>>> e1aae6b (added lesson 13)
+=======
+6. コーヒーを のみたいです。  
+    **Koohii o nomitai desu.**  
+    → I want to drink coffee.
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
     
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # 🧠 FINAL MEMORY MAP
 
@@ -2197,41 +2187,149 @@ Go somewhere to do something.
 **〜にいきます = go somewhere TO DO something**
 =======
 # 🧠 FINAL MEMORY TRICK
+=======
+### Don't want to do
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
 
-Remember Lesson 13 as **5 major ideas**:
+7. べんきょうしたくないです。  
+    **Benkyou shitakunai desu.**  
+    → I don't want to study.
+    
+8. きょうは はたらきたくないです。  
+    **Kyou wa hatarakitakunai desu.**  
+    → I don't want to work today.
+    
 
-### 🟢 1. 欲しい
+---
 
-**Want a thing**
+### Wanted to do
 
-> 車が欲しい。
+9. にほんへ いきたかったです。  
+    **Nihon e ikitakatta desu.**  
+    → I wanted to go to Japan.
+    
+10. すしを たべたかったです。  
+    **Sushi o tabetakatta desu.**  
+    → I wanted to eat sushi.
+    
 
-### 🔵 2. ～たい
+---
 
-**Want to do**
+### Didn't want to do
 
-> 車を買いたい。
+11. きのう べんきょうしたくなかったです。  
+    **Kinou benkyou shitakunakatta desu.**  
+    → I didn't want to study yesterday.
+    
 
-### 🟣 3. ～たがっています
+---
 
-**Someone else wants to do**
+### Another person
 
-> 彼は車を買いたがっています。
+12. かれは にほんへ いきたがっています。  
+    **Kare wa Nihon e ikitagatteimasu.**  
+    → He wants to go to Japan.
+    
+13. かのじょは コーヒーを のみたがっています。  
+    **Kanojo wa koohii o nomitagatteimasu.**  
+    → She wants to drink coffee.
+    
 
-### 🟠 4. ～に行きます
+---
 
-**Go somewhere to do something**
+### Purpose
 
-> 日本へ勉強しに行きます。
+14. としょかんへ べんきょうしに いきます。  
+    **Toshokan e benkyou shi ni ikimasu.**  
+    → I go to the library to study.
+    
+15. プールへ およぎに いきます。  
+    **Puuru e oyogi ni ikimasu.**  
+    → I go to the pool to swim.
+    
+16. スーパーへ かいものしに いきます。  
+    **Suupaa e kaimono shi ni ikimasu.**  
+    → I go to the supermarket to shop.
+    
 
-### 🔴 5. 何か / どこか
+---
 
-**Something / Somewhere**
+### Enter / Leave
 
-> 何か食べたい。  
-> どこかへ行きたい。
+17. みせに はいります。  
+    **Mise ni hairimasu.**  
+    → I enter the shop.
+    
+18. みせを でます。  
+    **Mise o demasu.**  
+    → I leave the shop.
+    
 
-## One-line revision:
+---
 
+<<<<<<< HEAD
 **欲しい = want a thing → たい = want to do → たがる = someone else wants → stem + に行く = go to do → 何か/どこか = something/somewhere**
 >>>>>>> e1aae6b (added lesson 13)
+=======
+### Something / Somewhere
+
+19. なにか たべたいです。  
+    **Nanika tabetai desu.**  
+    → I want to eat something.
+    
+20. どこかへ いきたいです。  
+    **Dokoka e ikitai desu.**  
+    → I want to go somewhere.
+    
+
+---
+
+# 🧠 FINAL MEMORY MAP
+
+```text
+THING
+   ↓
+N が ほしい
+   ↓
+I want a thing.
+
+ACTION
+   ↓
+V-stem + たい
+   ↓
+I want to do.
+
+PAST ACTION
+   ↓
+V-stem + たかった
+   ↓
+I wanted to do.
+
+NEGATIVE
+   ↓
+V-stem + たくない
+   ↓
+I don't want to do.
+
+OTHER PERSON
+   ↓
+V-stem + たがっています
+   ↓
+He/She wants to do.
+
+PURPOSE
+   ↓
+Place へ + V-stem + に + いきます
+   ↓
+Go somewhere to do something.
+```
+
+## ⭐ Lesson 13 in one line
+
+**ほしい = want a THING**  
+**たい = want to DO**  
+**たかった = WANTED to do**  
+**たくない = DON'T want to do**  
+**たがっています = someone ELSE wants to do**  
+**〜にいきます = go somewhere TO DO something**
+>>>>>>> 9d5d57c (added lesson 14 and blue bird lyrics)
