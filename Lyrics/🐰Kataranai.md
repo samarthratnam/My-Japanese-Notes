@@ -1,824 +1,992 @@
-# 1. Katara nai mou katara nai
+Absolutely — this is **「不可思議のカルテ」(Fukashigi no Karte)**. I'll keep the same learning style: **romaji → natural meaning → word/grammar breakdown**, and I'll focus on Japanese you can actually reuse.
 
-### 語らない もう語らない
+A few romaji spellings in what you pasted look slightly off, so I'll point those out rather than teach you an incorrect form.
 
-**Romaji:** katara nai mou katara nai
+---
+
+# 🎵 Chorus 1
+
+## 1. Katarenai nemurenai toroimerai
+
+**語れない 眠れない トロイメライ**
 
 🇬🇧 **Meaning:**  
-**I won't talk about it anymore. I won't talk about it.**
+**I can't talk about it, I can't sleep — Traumerei.**
 
-🔎 **Breakdown:**
+### Breakdown
 
-- **語る (kataru)** = to talk about / tell / speak of
-- **語らない (kataranai)** = don't/won't talk about
-- **もう (mou)** = already / anymore
+- **語る (kataru)** = to talk about / speak of
+    
+- **語れない (katarenai)** = cannot talk about
+    
+- **眠る (nemuru)** = to sleep
+    
+- **眠れない (nemurenai)** = cannot sleep
+    
+- **トロイメライ (toroimerai)** = _Traumerei_, a German word/name associated with a dream
+    
+
+### ⭐ Grammar: ～れる / ～られる potential
+
+**語る → 語れる → 語れない**
+
+> kataru → katareru → katarenai  
+> talk → can talk → **cannot talk**
 
 So:
 
-**語らない → I don't/won't talk about it**  
-**もう語らない → I won't talk about it anymore**
+**語れない = I can't talk about it**
 
 ---
 
-# 2. Sugi te shimatta koto ha mou iranai
+## 2. Anata no miteru shoutai
 
-### 過ぎてしまったことはもういらない
-
-**Romaji:** sugite shimatta koto wa mou iranai
+**あなたの見てる正体**
 
 🇬🇧 **Meaning:**  
-**I don't need the things that have already passed anymore.**
+**The true identity that you are seeing.**
 
-🔎 **Breakdown:**
-
-- **過ぎる (sugiru)** = to pass
-- **過ぎて (sugite)** = passing / having passed
-- **しまった (shimatta)** = ended up / unfortunately happened / completely done
-- **こと (koto)** = thing / matter
-- **もう (mou)** = anymore
-- **いらない (iranai)** = don't need
-
-### Important grammar:
-
-**～てしまう**
-
-Often means **"end up doing"** or something being **completely finished**.
-
-> 過ぎてしまった  
-> **sugite shimatta**  
-> = has already passed / is gone
-
----
-
-# 3. Dare mo ga seken wo ki ni shi nagara ikiru
-
-### 誰もが世間を気にしながら生きる
-
-**Romaji:** dare mo ga seken wo ki ni shi nagara ikiru
-
-🇬🇧 **Meaning:**  
-**Everyone lives while worrying about what society thinks.**
-
-🔎 **Breakdown:**
-
-- **誰もが (dare mo ga)** = everyone
-- **世間 (seken)** = society / the world around us
-- **気にする (ki ni suru)** = to worry about / care about
-- **ながら (nagara)** = while doing
-- **生きる (ikiru)** = to live
-
-### Important grammar:
-
-**Verb + ながら = while doing**
-
-> 気にしながら生きる  
-> ki ni shinagara ikiru  
-> = live **while worrying/caring**
-
-This is a very useful N4/N3 grammar pattern.
-
----
-
-# 4. Kore made no jinsei donna katagaki sore ga subete to
-
-### これまでの人生 どんな肩書き それが全てと
-
-**Romaji:** kore made no jinsei donna katagaki sore ga subete to
-
-🇬🇧 **Meaning:**  
-**Your life up until now, whatever your title/status — thinking that that's everything.**
-
-🔎 **Breakdown:**
-
-- **これまで (kore made)** = until now / up to this point
-- **人生 (jinsei)** = life
-- **どんな (donna)** = what kind of / whatever kind of
-- **肩書き (katagaki)** = title / position / social status
-- **それ (sore)** = that
-- **全て (subete)** = everything
-- **～と** = quotation/thought marker here
-
-### Vocabulary:
-
-**肩書き (katagaki)** is interesting.
-
-It literally refers to someone's **title/position**, such as:
-
-- company position
-- occupation
-- social status
-
-So the line is talking about judging yourself through your **status/title**.
-
----
-
-# 5. Unzari suru hodo nikayotta hitobito
-
-### うんざりするほど似通った人々
-
-**Romaji:** unzari suru hodo nikayotta hitobito
-
-🇬🇧 **Meaning:**  
-**People who are so similar that it's exhausting.**
-
-🔎 **Breakdown:**
-
-- **うんざりする (unzari suru)** = to be fed up / tired of something
-- **ほど (hodo)** = to the extent that / so much that
-- **似通った (nikayotta)** = similar / alike
-- **人々 (hitobito)** = people
-
-### Grammar:
-
-**～ほど = to the extent that**
-
-> うんざりするほど  
-> unzari suru hodo  
-> = **to the point of being fed up**
-
----
-
-# 6. Naze kou de nakerya to tsuyoi anmoku no tsukura re teru
-
-This line's romaji seems to have some spelling/transcription issues, so I don't want to pretend I know the exact original Japanese.
-
-The important expressions appear to be:
-
-### なぜこうでなけりゃ
-
-**naze kou de nakerya**
-
-🇬🇧 **Meaning:**  
-**Why does it have to be this way?**
-
-🔎 **なけりゃ** is a shortened conversational form related to:
-
-> **なければ** = if it isn't / if one doesn't...
-
-In expressions like:
-
-> こうでなけりゃ  
-> = it has to be this way / if it isn't this way
-
----
-
-# 7. Katara nai mou katara nai
-
-### 語らない もう語らない
-
-🇬🇧 **Meaning:**  
-**I won't talk about it anymore.**
-
-Same vocabulary as line 1.
-
-The repetition gives it emotional emphasis:
-
-> **I won't talk about it. No more.**
-
----
-
-# 8. Kako nado muryoku na no sa
-
-### 過去など無力なのさ
-
-**Romaji:** kako nado muryoku na no sa
-
-🇬🇧 **Meaning:**  
-**The past is powerless.**
-
-🔎 **Breakdown:**
-
-- **過去 (kako)** = past
-- **など (nado)** = things like / such things as
-- **無力 (muryoku)** = powerless / without power
-- **なのさ (nano sa)** = explanatory/emphatic ending
-
-### など
-
-Here **など** makes the statement dismissive:
-
-> 過去など  
-> kako nado  
-> = the past and such things / something like the past
-
-So emotionally:
-
-**"The past is powerless anyway."**
-
----
-
-# 9. Korekara sou korekara ga
-
-### これから そう これからが
-
-**Romaji:** korekara sou korekara ga
-
-🇬🇧 **Meaning:**  
-**From now on. Yes, from now on is what matters...**
-
-🔎
-
-- **これから (korekara)** = from now on / from here onward
-- **そう (sou)** = yes / that's right / so
-
-The repetition emphasizes **the future rather than the past**.
-
----
-
-# 10. Itsu demo boku no mae ni are ba ii
-
-### いつでも僕の前にあればいい
-
-**Romaji:** itsu demo boku no mae ni areba ii
-
-🇬🇧 **Meaning:**  
-**It's enough if it is always before me.**
-
-More naturally:
-
-**"All that matters is that it is always ahead of me."**
-
-🔎 **Breakdown:**
-
-- **いつでも (itsudemo)** = always / anytime
-- **僕 (boku)** = I / me
-- **前 (mae)** = front / ahead
-- **に (ni)** = at/in/to
-- **あれば (areba)** = if there is / if it exists
-- **いい (ii)** = good / okay
-
-### Grammar:
-
-**～ばいい**
-
-= **it's enough if... / it would be good if...**
-
-> あればいい  
-> areba ii  
-> = it is enough if it exists / it would be good if it is there
-
----
-
-# 11. Anata ga ima iru sore dake de ii no sa
-
-### あなたが今いる それだけでいいのさ
-
-**Romaji:** anata ga ima iru sore dake de ii no sa
-
-🇬🇧 **Meaning:**  
-**It's enough that you are here now.**
-
-🔎 **Breakdown:**
+### Breakdown
 
 - **あなた (anata)** = you
-- **今 (ima)** = now
-- **いる (iru)** = to be/exist (for people)
-- **それだけ (sore dake)** = only that / just that
-- **でいい (de ii)** = is enough / is fine
-- **のさ (nosa)** = emphatic explanatory ending
+    
+- **見る (miru)** = to see
+    
+- **見てる (miteru)** = seeing / looking at
+    
 
-### Very useful pattern:
+**見てる** is the casual shortened form of:
 
-**～だけでいい**
+> 見ている  
+> **mite iru**
 
-= **just ～ is enough**
-
-> それだけでいい  
-> sore dake de ii  
-> = **just that is enough**
-
----
-
-# 12. Kore made no kanashimi namida no shin sa seotsu te i te mo
-
-This line also appears to contain some transcription errors.
-
-The likely useful pieces are:
-
-- **これまで (kore made)** = until now
-- **悲しみ (kanashimi)** = sadness
-- **涙 (namida)** = tears
-- **深さ (fukasa)** = depth
-- **～ても (temo)** = even if / even though
-
-### ～ても
-
-This is an important grammar pattern:
-
-> **Verb/Adjective + ても**  
-> = even if / even though
-
-For example:
-
-> 泣いても  
-> naite mo  
-> = even if I cry
-
-So the general sense of the line is about **the sadness and depth of tears experienced up to now**, despite whatever has happened.
-
----
-
-# 13. Muri shi te wasureru sugata ha tsurai kara
-
-### 無理して忘れる姿はつらいから
-
-**Romaji:** muri shite wasureru sugata wa tsurai kara
-
-🇬🇧 **Meaning:**  
-**Because the sight of you forcing yourself to forget is painful.**
-
-🔎 **Breakdown:**
-
-- **無理する (muri suru)** = to force oneself / push oneself
-- **無理して (muri shite)** = forcing oneself
-- **忘れる (wasureru)** = to forget
-- **姿 (sugata)** = appearance / figure / sight
-- **つらい (tsurai)** = painful / difficult
-- **から (kara)** = because
+- **正体 (shōtai)** = true identity / true nature / real form
+    
 
 ### Important:
 
-**無理して**
+**見てる = 見ている**
 
-Literally:
+You'll hear **～てる** constantly in casual Japanese.
 
-> 無理 = unreasonable/forced  
-> する = do
+> 食べている → 食べてる  
+> tabete iru → tabeteru  
+> = eating
+
+---
+
+## 3. Daremo yomenai karute
+
+**誰も読めないカルテ**
+
+🇬🇧 **Meaning:**  
+**A medical chart that no one can read.**
+
+### Breakdown
+
+- **誰も (daremo)** = nobody / no one
+    
+- **読む (yomu)** = to read
+    
+- **読めない (yomenai)** = cannot read
+    
+- **カルテ (karute)** = medical chart / patient's medical record
+    
+
+### ⭐ Important grammar
+
+**読む → 読める → 読めない**
+
+> yomu → yomeru → yomenai  
+> read → can read → cannot read
+
+And:
+
+**誰も + negative verb = nobody...**
+
+> 誰も読めない  
+> **daremo yomenai**  
+> = Nobody can read it.
+
+---
+
+## 4. Fukashigi shiritai dake
+
+**不可思議 知りたいだけ**
+
+🇬🇧 **Meaning:**  
+**I just want to know the mystery.**
+
+### Breakdown
+
+- **不可思議 (fukashigi)** = mysterious / inexplicable
+    
+- **知る (shiru)** = to know
+    
+- **知りたい (shiritai)** = want to know
+    
+- **だけ (dake)** = only / just
+    
+
+### ⭐ Grammar: ～たい
+
+**Verb stem + たい = want to do**
+
+> 知る → 知りたい  
+> shiru → shiritai  
+> know → **want to know**
+
+> 食べる → 食べたい  
+> taberu → tabetai  
+> eat → **want to eat**
 
 So:
 
-> 無理して  
-> = **force yourself to do something**
+**知りたいだけ**  
+= **I just want to know.**
 
 ---
 
-# 14. Sou itsuka shizen ni ashita no naka de iyaseru darou
+# 🎵 Verse 1
 
-### そう いつか自然に明日の中で癒せるだろう
+## 5. Uso mo genjitsu mo
 
-**Romaji:** sou itsuka shizen ni ashita no naka de iyaseru darou
-
-🇬🇧 **Meaning:**  
-**Yes, someday, naturally, tomorrow will heal it.**
-
-🔎 **Breakdown:**
-
-- **そう (sou)** = yes / that's right
-- **いつか (itsuka)** = someday
-- **自然に (shizen ni)** = naturally
-- **明日 (ashita)** = tomorrow
-- **中 (naka)** = inside / within
-- **癒す (iyasu)** = to heal
-- **だろう (darou)** = probably / I suppose / will likely
-
-### Important:
-
-**いつか**
-
-= **someday**
-
-Very common:
-
-> いつか日本に行きたい。  
-> Someday I want to go to Japan.
-
----
-
-# 15. Kuyama nai kuyama naku te ii
-
-### 悔やまない 悔やまなくていい
-
-**Romaji:** kuyamanai kuyamanakute ii
+**嘘も現実も**
 
 🇬🇧 **Meaning:**  
-**Don't regret it. You don't have to regret it.**
+**Both lies and reality...**
 
-🔎 **Breakdown:**
+### Breakdown
 
-- **悔やむ (kuyamu)** = to regret / lament
-- **悔やまない (kuyamanai)** = don't/won't regret
-- **～なくていい (nakute ii)** = don't have to...
-
-### ⭐ Very useful grammar:
-
-**Verb negative + なくていい**
-
-= **you don't have to do...**
-
-> 食べなくていい  
-> tabenakute ii  
-> = You don't have to eat.
-
-> 行かなくていい  
-> ikanakute ii  
-> = You don't have to go.
-
-> 悔やまなくていい  
-> kuyamanakute ii  
-> = You don't have to regret it.
-
----
-
-# 16. Ano toki moshimo nante
-
-### あの時 もしもなんて
-
-**Romaji:** ano toki moshimo nante
-
-🇬🇧 **Meaning:**  
-**"Back then... what if..."**
-
-🔎 **Breakdown:**
-
-- **あの時 (ano toki)** = at that time / back then
-- **もしも (moshimo)** = if / what if
-- **なんて (nante)** = things like / something like
-
-This is an incomplete/emotional phrase.
-
-It has the feeling of:
-
-> **"What if things had been different back then..."**
-
----
-
-# 17. Korekara sou korekara ga
-
-### これから そう これからが
-
-🇬🇧 **Meaning:**  
-**From now on. Yes, what comes from now on...**
-
-Again, **これから** emphasizes the future.
-
----
-
-# 18. Anata nitotte kitto are ba ii dakara mou
-
-### あなたにとってきっとあればいい だからもう
-
-**Romaji:** anata ni totte kitto areba ii dakara mou
-
-🇬🇧 **Meaning:**  
-**For you, surely, it's enough if it exists... so, now...**
-
-🔎 **Breakdown:**
-
-- **あなたにとって (anata ni totte)** = for you / from your perspective
-- **きっと (kitto)** = surely / certainly
-- **あればいい (areba ii)** = it's enough if it exists
-- **だから (dakara)** = therefore / so / because
-- **もう (mou)** = already / anymore / now
-
-### ⭐ Important grammar:
-
-**～にとって**
-
-= **for someone / from someone's point of view**
-
-> 私にとって  
-> watashi ni totte  
-> = for me
-
-> あなたにとって  
-> anata ni totte  
-> = for you
-
----
-
-# 19. Hito wo aisuru ni mo toki ga aru no sa
-
-### 人を愛するにも時があるのさ
-
-**Romaji:** hito wo aisuru ni mo toki ga aru no sa
-
-🇬🇧 **Meaning:**  
-**There is a time even for loving someone.**
-
-🔎 **Breakdown:**
-
-- **人 (hito)** = person
-- **愛する (aisuru)** = to love
-- **時 (toki)** = time
-- **ある (aru)** = there is / exists
-- **のさ (nosa)** = emphatic ending
-
-### Interesting grammar:
-
-**～にも**
+- **嘘 (uso)** = lie
+    
+- **現実 (genjitsu)** = reality
+    
+- **も (mo)** = also / both
+    
 
 Here:
 
-> 愛するにも  
-> aisuru ni mo  
-> = even for loving / when it comes to loving
+> AもBも  
+> = **both A and B**
 
 So:
 
-> 人を愛するにも時がある  
-> = **There is a time for loving someone too.**
+**嘘も現実も**  
+= **both lies and reality**
 
 ---
 
-# 20. Hito wo aisuru ni mo toki ga aru no sa
+## 6. Docchi mo shinjitsu datta no hontou yo
 
-### 人を愛するにも時があるのさ
+**どっちも真実だったの 本当よ**
 
 🇬🇧 **Meaning:**  
-**There is a time for loving someone.**
+**Both of them were the truth. It's true.**
 
-Same sentence, repeated for emphasis.
+### Breakdown
+
+- **どっち (docchi)** = which one / either one / both, depending on context
+    
+- **どっちも (docchi mo)** = both
+    
+- **真実 (shinjitsu)** = truth
+    
+- **だった (datta)** = was
+    
+- **本当 (hontō)** = true / really
+    
+- **よ (yo)** = emphasis
+    
+
+### ⭐ Useful:
+
+**どっちも**
+
+= **both of them**
+
+> どっちも好き。  
+> docchi mo suki  
+> = I like both.
 
 ---
 
-# 21. Anata to boku ga ima kita nara hajimari ga mieru hazu
+## 7. Kyou mo hitorigoto
 
-### あなたと僕が今来たなら始まりが見えるはず
-
-**Romaji:** anata to boku ga ima kita nara hajimari ga mieru hazu
+**今日も独り言**
 
 🇬🇧 **Meaning:**  
-**If you and I have come this far now, we should be able to see a new beginning.**
+**Today too, talking to myself.**
 
-Some uncertainty exists around **来た (kita)** based on the supplied romaji, but the grammar is useful.
+### Breakdown
 
-🔎 **Breakdown:**
+- **今日 (kyō)** = today
+    
+- **も (mo)** = also / too
+    
+- **独り言 (hitorigoto)** = talking to oneself / monologue
+    
 
-- **あなたと僕 (anata to boku)** = you and me
-- **今 (ima)** = now
-- **～なら (nara)** = if / if it is the case that
-- **始まり (hajimari)** = beginning
-- **見える (mieru)** = can see / be visible
-- **はず (hazu)** = should / supposed to
+### Vocabulary:
+
+**独り言**
+
+> 独り = alone  
+> 言 = saying/words
+
+So literally:
+
+**"words spoken alone."**
+
+---
+
+## 8. Nannimo muri wo shinaide watashi aisaretai
+
+**何にも無理をしないで 私 愛されたい**
+
+🇬🇧 **Meaning:**  
+**Without forcing anything, I want to be loved.**
+
+### Breakdown
+
+- **何にも (nannimo)** = anything / nothing, depending on the verb
+    
+- **無理をする (muri wo suru)** = to force oneself / overdo it
+    
+- **無理をしないで (muri wo shinaide)** = without forcing yourself / don't push yourself
+    
+- **私 (watashi)** = I / me
+    
+- **愛されたい (aisaretai)** = want to be loved
+    
+
+### ⭐ Very important grammar:
+
+**愛する (aisuru)** = to love
+
+Passive:
+
+**愛される (aisareru)** = to be loved
+
+Then:
+
+**愛されたい (aisaretai)**  
+= **want to be loved**
+
+Compare:
+
+> 愛したい  
+> **aishitai**  
+> = I want to love
+
+> 愛されたい  
+> **aisaretai**  
+> = I want to be loved
+
+That's a very useful distinction.
+
+---
+
+# 🎵 Chorus 2
+
+## 9. Uyamuya sayonara karui memai
+
+Your romaji **"uyamuya"** is probably referring to:
+
+**曖昧さよなら 軽い眩暈**
+
+🇬🇧 **Meaning:**  
+**Goodbye, ambiguity. A slight dizziness.**
+
+### Words
+
+- **曖昧 (aimai)** = vague / ambiguous
+    
+- **さよなら (sayonara)** = goodbye
+    
+- **軽い (karui)** = light / slight
+    
+- **眩暈 (memai)** = dizziness / vertigo
+    
+
+**軽い眩暈**  
+= **a slight dizziness**
+
+---
+
+## 10. Anata no inai genshoukai
+
+**あなたのいない現象界**
+
+🇬🇧 **Meaning:**  
+**A phenomenal world without you.**
+
+### Breakdown
+
+- **あなた** = you
+    
+- **いない (inai)** = isn't there / absent
+    
+- **現象界 (genshōkai)** = phenomenal world / world of phenomena
+    
 
 ### ⭐ Important grammar:
 
-**～はず**
+**Noun + の + いない**
 
-= **should / expected to**
+> あなたのいない世界  
+> anata no inai sekai  
+> = a world **without you**
 
-> 見えるはず  
-> mieru hazu  
-> = **should be able to see**
+Very useful pattern.
 
 ---
 
-# 22. Katara nai mou katara nai
+## 11. Daremo yomenai karute
 
-### 語らない もう語らない
+**誰も読めないカルテ**
 
 🇬🇧 **Meaning:**  
-**I won't talk about it anymore.**
+**A medical chart no one can read.**
+
+Same structure as earlier:
+
+> 誰も + 読めない  
+> nobody + cannot read
 
 ---
 
-# 23. Futari de iki te yuku u
+## 12. Jiishiki afuredashite
 
-### 二人で生きてゆく
-
-**Romaji:** futari de ikite yuku
+**自意識 溢れ出して**
 
 🇬🇧 **Meaning:**  
-**The two of us will live on together.**
+**Self-consciousness overflowing...**
 
-🔎 **Breakdown:**
+### Breakdown
 
-- **二人 (futari)** = two people / the two of us
-- **で (de)** = by/with, indicating the group doing something
-- **生きる (ikiru)** = to live
-- **生きてゆく (ikite yuku)** = continue living / live on
+- **自意識 (jii shiki / jiishiki)** = self-consciousness / self-awareness
+    
+- **溢れる (afureru)** = to overflow
+    
+- **溢れ出す (afuredasu)** = to begin overflowing / spill out
+    
+- **溢れ出して (afuredashite)** = overflowing / spilling out
+    
 
-### Important:
+### ⭐ Useful compound:
 
-**～ていく / ～てゆく**
+**～出す**
 
-Can express something **continuing forward into the future**.
+When attached to a verb, it can mean **"start/burst into doing something."**
 
-> 生きてゆく  
-> = **continue living / live on**
+> 泣き出す  
+> nakidasu  
+> = start crying
+
+> 走り出す  
+> hashiridasu  
+> = start running
+
+> 溢れ出す  
+> afuredasu  
+> = start overflowing
 
 ---
 
-# 24. Korekara sou korekara ga
+# 🎹 Verse 2
 
-### これから そう これからが
+## 13. Kodou wo sekaizou wo
+
+This line's romaji is difficult to reconstruct confidently from the text alone.
+
+**鼓動 (kodō)** definitely means:
+
+🇬🇧 **heartbeat / pulse**
+
+- **鼓動** = heartbeat
+    
+- **世界像 (sekaizō)** = image/conception of the world
+    
+
+The exact grammatical relationship between the two needs the original Japanese lyrics to explain accurately.
+
+---
+
+## 14. Itsumo kami awanai no itakute
+
+The supplied romaji also appears to have a transcription issue.
+
+A useful expression here is likely:
+
+**噛み合わない (kami-aw-anai)**
+
+### 噛み合わない
+
+**kami awanai**
 
 🇬🇧 **Meaning:**  
-**From now on. Yes, what comes next...**
+**Don't fit together / don't mesh / don't align.**
+
+### Breakdown
+
+- **噛む (kamu)** = to bite
+    
+- **噛み合う (kamiau)** = fit together / mesh
+    
+- **噛み合わない (kamiawanai)** = don't fit / don't align
+    
+
+This can be used metaphorically:
+
+> 話が噛み合わない  
+> hanashi ga kamiawanai  
+> = Our conversation doesn't line up / we're not on the same wavelength.
 
 ---
 
-# 25. Anata to boku no mae ni are ba ii
+## 15. Maiyo negaigoto
 
-### あなたと僕の前にあればいい
-
-**Romaji:** anata to boku no mae ni areba ii
+**毎夜 願い事**
 
 🇬🇧 **Meaning:**  
-**It's enough if it is ahead of you and me.**
+**Every night, a wish.**
 
-🔎
+### Breakdown
 
-- **あなたと僕 (anata to boku)** = you and me
-- **前 (mae)** = ahead / in front
-- **あればいい (areba ii)** = it's enough if it exists / is there
+- **毎夜 (maiyo)** = every night
+    
+- **願い事 (negaigoto)** = wish / something you wish for
+    
+
+Very useful:
+
+> 願い = wish  
+> 事 = thing/matter
+
+So **願い事** literally has the feeling of **"a thing wished for."**
 
 ---
 
-# 26. Katara nai katara naku te ii
+## 16. Nannimo utagawanaide mazari toke aitai
 
-### 語らない 語らなくていい
+**何にも疑わないで 混ざり解け合いたい**
 
-**Romaji:** kataranai kataranakute ii
+The exact original spelling may differ, but the important expression is:
+
+### 疑わないで
+
+**utagawanaide**
 
 🇬🇧 **Meaning:**  
-**Don't talk about it. You don't have to talk about it.**
+**Without doubting / don't doubt.**
 
-🔎 This uses the same grammar:
+- **疑う (utagau)** = to doubt
+    
+- **疑わない (utagawanai)** = don't doubt
+    
+- **疑わないで (utagawanaide)** = without doubting / don't doubt
+    
 
-### **～なくていい**
+And:
 
-= **don't have to ～**
+### ～たい
 
-> 語らなくていい  
-> kataranakute ii  
-> = You don't have to talk about it.
+**want to...**
+
+So the final part expresses a desire to **blend/merge and become one**, rather than remaining separate.
 
 ---
 
-# 27. Kako nado muryoku na no sa
+# 🎵 Chorus 3
 
-### 過去など無力なのさ
+## 17. Tawainai wakaranai riyuu sonzai
+
+Some uncertainty in the supplied romaji here as well. The individual words are:
+
+- **たわいない (tawainai)** = trivial / meaningless / childish
+    
+- **わからない (wakaranai)** = don't understand / don't know
+    
+- **理由 (riyū)** = reason
+    
+- **存在 (sonzai)** = existence
+    
+
+### わからない
+
+**wakaranai**
+
+= **don't know / don't understand**
+
+This is one of the most useful words in Japanese.
+
+> わかる = understand  
+> わからない = don't understand
+
+---
+
+## 18. Anata to nokosu koukai
+
+**あなたと残す後悔**
 
 🇬🇧 **Meaning:**  
-**The past is powerless.**
+**The regret left behind with you.**
 
-Again:
+### Breakdown
 
-- **過去** = past
-- **など** = such things as
-- **無力** = powerless
-- **なのさ** = emphatic ending
+- **あなたと (anata to)** = with you
+    
+- **残す (nokosu)** = leave behind
+    
+- **後悔 (kōkai)** = regret
+    
+
+**後悔を残す**  
+= leave behind regret
 
 ---
 
-# 28. Katara nai mou katara nai
+## 19. Daremo yomenai karute
 
-### 語らない もう語らない
+**誰も読めないカルテ**
 
 🇬🇧 **Meaning:**  
-**I won't talk about it anymore.**
+**A medical chart nobody can read.**
 
 ---
 
-# 29. Sugi te shimatta koto ha mou iranai
+## 20. Fuyukai kurikaeshite
 
-### 過ぎてしまったことはもういらない
+**不愉快 繰り返して**
 
 🇬🇧 **Meaning:**  
-**I don't need what has already passed anymore.**
+**Unpleasantness, repeating again and again...**
+
+### Breakdown
+
+- **不愉快 (fuyukai)** = unpleasant / uncomfortable
+    
+- **繰り返す (kurikaesu)** = repeat
+    
+- **繰り返して (kurikaeshite)** = repeating
+    
+
+### ⭐ Vocabulary:
+
+**繰り返す**
+
+> 繰り = again/around  
+> 返す = return
+
+= **repeat / do again**
 
 ---
 
-# 🧠 The most useful Japanese you've learned from this song
+# 🌙 Bridge
 
-These are worth putting into your Japanese notes:
+## 21. Tadashii yume wa kanashii koe wa
+
+**正しい夢は 悲しい声は**
+
+🇬🇧 **Meaning:**  
+**A correct/right dream... a sad voice...**
+
+The sentence is intentionally fragmented.
+
+### Words
+
+- **正しい (tadashii)** = correct / right
+    
+- **夢 (yume)** = dream
+    
+- **悲しい (kanashii)** = sad
+    
+- **声 (koe)** = voice
+    
+
+---
+
+## 22. Utsukushii? utagawashii? urayamashii?
+
+**美しい？疑わしい？羨ましい？**
+
+🇬🇧 **Meaning:**  
+**Beautiful? Doubtful/suspicious? Enviable?**
+
+### Vocabulary
+
+**美しい (utsukushii)**  
+= beautiful
+
+**疑わしい (utagawashii)**  
+= doubtful / questionable
+
+**羨ましい (urayamashii)**  
+= envious / I wish I had that
+
+### ⭐ Important:
+
+**羨ましい** is extremely common in Japanese.
+
+> いいな、羨ましい！  
+> ii na, urayamashii!  
+> = That's nice! I'm jealous!
+
+Not necessarily "jealous" in a negative way — often **"I wish I had that too."**
+
+---
+
+## 23. Nee, dore?
+
+**ねえ、どれ？**
+
+🇬🇧 **Meaning:**  
+**Hey, which one?**
+
+### Breakdown
+
+- **ねえ (nee)** = hey / say...
+    
+- **どれ (dore)** = which one?
+    
+
+The bridge is basically asking:
+
+> **Which is it? Beautiful? Doubtful? Enviable?**
+
+---
+
+# 🎵 Final Chorus
+
+## 24. Katarenai nemurenai toroimerai
+
+**語れない 眠れない トロイメライ**
+
+🇬🇧 **I can't speak about it. I can't sleep. Traumerei.**
+
+---
+
+## 25. Anata no miteru shoutai
+
+**あなたの見てる正体**
+
+🇬🇧 **The true nature/identity you're seeing.**
+
+---
+
+## 26. Daremo yomenai karute
+
+**誰も読めないカルテ**
+
+🇬🇧 **A medical chart nobody can read.**
+
+---
+
+## 27. Fukashigi shiritai dake
+
+**不可思議 知りたいだけ**
+
+🇬🇧 **I just want to know the mystery.**
+
+---
+
+# 🌌 28. Owaranai koto wa nai toroimerai
+
+**終わらないことはない トロイメライ**
+
+🇬🇧 **There is nothing that doesn't end. Traumerei.**
+
+This is a really useful grammar construction.
+
+### 終わる
+
+**owaru** = to end
+
+### 終わらない
+
+**owaranai** = doesn't end
+
+### 終わらないことはない
+
+Literally:
+
+> "There isn't a thing that doesn't end."
+
+Natural meaning:
+
+> **Everything eventually ends.**
+
+### ⭐ Grammar:
+
+**～ないことはない**
+
+Literally:
+
+**"It's not that ～ doesn't..."**
+
+It often creates a softer **"it's not impossible / there is some possibility"** meaning.
+
+But in this particular sentence:
+
+> 終わらないことはない
+
+= **There is nothing that lasts forever / everything ends eventually.**
+
+---
+
+# 29. Anata to matagu kyoukai
+
+**あなたと跨ぐ境界**
+
+🇬🇧 **Meaning:**  
+**The boundary that I cross with you.**
+
+### Breakdown
+
+- **あなたと** = with you
+    
+- **跨ぐ (matagu)** = step over / cross
+    
+- **境界 (kyōkai)** = boundary / border
+    
+
+### Vocabulary:
+
+**境界**
+
+> 境 = boundary  
+> 界 = world/boundary
+
+So:
+
+> 境界を跨ぐ  
+> kyōkai o matagu  
+> = cross a boundary
+
+---
+
+# 30. Daremo yomenai karute
+
+**誰も読めないカルテ**
+
+🇬🇧 **A medical chart nobody can read.**
+
+---
+
+# 31. Shishunki kizuguchi mune no uchi
+
+**思春期 傷口 胸の内**
+
+🇬🇧 **Adolescence. Wounds. What's inside the heart.**
+
+### Breakdown
+
+**思春期 (shishunki)**  
+= adolescence / puberty
+
+**傷口 (kizuguchi)**  
+= wound / wound opening
+
+- **傷 (kizu)** = wound / injury
+    
+- **口 (kuchi)** = mouth/opening
+    
+
+**胸の内 (mune no uchi)**  
+= one's inner feelings / what is in one's heart
+
+### ⭐ 胸の内
+
+This is a nice Japanese expression.
+
+Literally:
+
+> 胸 = chest/heart  
+> 内 = inside
+
+But figuratively:
+
+> **胸の内 = one's true inner feelings**
+
+---
+
+# 32. Fukashigi shiritai dake
+
+**不可思議 知りたいだけ**
+
+🇬🇧 **I just want to know the mystery.**
+
+And that's the ending.
+
+---
+
+# 🧠 Most important Japanese from this song
+
+These are the words I'd actually recommend remembering:
 
 |Japanese|Romaji|Meaning|
 |---|---|---|
-|語る|kataru|to talk about / tell|
-|語らない|kataranai|don't/won't talk|
-|過ぎる|sugiru|to pass|
-|過ぎてしまう|sugite shimau|end up passing / completely pass|
-|世間|seken|society|
-|気にする|ki ni suru|worry about / care about|
-|生きる|ikiru|to live|
-|これまで|kore made|until now|
-|肩書き|katagaki|title / status|
-|全て|subete|everything|
-|うんざりする|unzari suru|be fed up|
-|似通う|nikayou|be similar|
-|過去|kako|past|
-|無力|muryoku|powerless|
-|これから|korekara|from now on|
-|前|mae|front / ahead|
-|悲しみ|kanashimi|sadness|
-|涙|namida|tears|
-|無理する|muri suru|force oneself|
-|忘れる|wasureru|forget|
-|いつか|itsuka|someday|
-|悔やむ|kuyamu|regret|
-|愛する|aisuru|love|
-|始まり|hajimari|beginning|
-|見える|mieru|be visible / can see|
-|二人|futari|two people / the two of us|
+|語る|kataru|to talk about|
+|語れない|katarenai|cannot talk about|
+|眠る|nemuru|to sleep|
+|眠れない|nemurenai|cannot sleep|
+|正体|shōtai|true identity/nature|
+|読む|yomu|to read|
+|読めない|yomenai|cannot read|
+|不可思議|fukashigi|mysterious|
+|知りたい|shiritai|want to know|
+|嘘|uso|lie|
+|現実|genjitsu|reality|
+|真実|shinjitsu|truth|
+|独り言|hitorigoto|talking to oneself|
+|愛されたい|aisaretai|want to be loved|
+|曖昧|aimai|vague/ambiguous|
+|眩暈|memai|dizziness|
+|現象|genshō|phenomenon|
+|自意識|jiishiki|self-consciousness|
+|溢れる|afureru|overflow|
+|鼓動|kodō|heartbeat|
+|噛み合う|kamiau|fit together / mesh|
+|願い事|negaigoto|wish|
+|疑う|utagau|doubt|
+|後悔|kōkai|regret|
+|繰り返す|kurikaesu|repeat|
+|美しい|utsukushii|beautiful|
+|疑わしい|utagawashii|doubtful|
+|羨ましい|urayamashii|envious / wish I had it|
+|終わる|owaru|end|
+|境界|kyōkai|boundary|
+|思春期|shishunki|adolescence|
+|傷口|kizuguchi|wound|
+|胸の内|mune no uchi|inner feelings|
 
 ---
 
-# ⭐ Grammar patterns from the song
+# ⭐ Grammar you should take from this song
 
-### 1. ～ながら
+### ① ～たい = want to
 
-**"while doing..."**
+> 知る → 知りたい  
+> **shiru → shiritai**  
+> know → **want to know**
 
-> 気にしながら生きる  
-> **ki ni shinagara ikiru**  
-> = live **while worrying**
-
----
-
-### 2. ～てしまう
-
-**"end up / completely do..."**
-
-> 過ぎてしまった  
-> **sugite shimatta**  
-> = has already passed
+> 愛する → 愛したい  
+> **aisuru → aishitai**  
+> love → **want to love**
 
 ---
 
-### 3. ～なくていい
+### ② ～されたい = want to be ～ed
 
-**"don't have to..."**
+> 愛されたい  
+> **aisaretai**  
+> = **want to be loved**
 
-> 語らなくていい  
-> **kataranakute ii**  
-> = don't have to talk
+This is:
 
-> 悔やまなくていい  
-> **kuyamanakute ii**  
-> = don't have to regret
+**愛する → 愛される → 愛されたい**
 
----
-
-### 4. ～だけでいい
-
-**"just ～ is enough"**
-
-> それだけでいい  
-> **sore dake de ii**  
-> = just that is enough
+love → be loved → want to be loved
 
 ---
 
-### 5. ～にとって
+### ③ ～ないで = without doing / don't do
 
-**"for / from the perspective of..."**
+> 疑わないで  
+> **utagawanaide**  
+> = don't doubt / without doubting
 
-> あなたにとって  
-> **anata ni totte**  
-> = for you
-
----
-
-### 6. ～はず
-
-**"should / expected to..."**
-
-> 見えるはず  
-> **mieru hazu**  
-> = should be able to see
+> 無理をしないで  
+> **muri wo shinaide**  
+> = don't force yourself
 
 ---
 
-### 7. ～ていく / ～てゆく
+### ④ ～てる = casual ～ている
 
-**continuing forward into the future**
+> 見ている → 見てる  
+> **mite iru → miteru**
 
-> 生きてゆく  
-> **ikite yuku**  
-> = live on / continue living
+= **is seeing / is looking**
 
----
-
-### 8. ～ほど
-
-**"to the extent that..."**
-
-> うんざりするほど  
-> **unzari suru hodo**  
-> = to the point of being fed up
+You'll hear this **all the time in anime and normal conversation.**
 
 ---
 
-## 🌱 Overall meaning of the lyrics
+### ⑤ ～も = also / both
 
-The song is essentially moving from **the past → letting go → the future → living forward with someone**.
+> 嘘も現実も  
+> **uso mo genjitsu mo**  
+> = both lies **and** reality
 
-The repeated idea is:
+Pattern:
 
-> **過去など無力**  
-> _kako nado muryoku_  
-> **The past is powerless.**
+> **AもBも = both A and B**
 
-and:
+---
 
-> **これから**  
-> _korekara_  
-> **From now on.**
+### ⑥ ～だけ = only / just
 
-So the emotional progression is roughly:
+> 知りたいだけ  
+> **shiritai dake**  
+> = **I just want to know**
 
-**"I won't keep talking about what has already happened. The past can't change anything. People worry about society and their status, but what matters is what comes next. You don't have to force yourself to forget. Someday the pain will heal naturally. From now on, the two of us can keep living forward."**
+---
 
-That makes the repeated **これから** particularly important: **the song keeps turning its attention away from the past and toward the future.**
+### ⑦ ～と = with
+
+> あなたと  
+> **anata to**  
+> = **with you**
+
+Don't confuse this with the other uses of **と**.
+
+---
+
+### ⑧ 誰も + negative = nobody
+
+> 誰も読めない  
+> **daremo yomenai**  
+> = **Nobody can read it.**
+
+This pattern is extremely useful:
+
+> 誰も知らない  
+> daremo shiranai  
+> = Nobody knows.
+
+> 誰もいない  
+> daremo inai  
+> = Nobody is here.
+
+---
+
+## 🎯 One particularly useful lesson from this song
+
+Notice these three:
+
+**語る → 語れない**  
+**読む → 読めない**  
+**眠る → 眠れない**
+
+They are all using the **potential form**:
+
+> 語る → 語れる → 語れない  
+> talk → can talk → cannot talk
+
+> 読む → 読める → 読めない  
+> read → can read → cannot read
+
+> 眠る → 眠れる → 眠れない  
+> sleep → can sleep → cannot sleep
+
+So when you hear:
+
+> **～れない**
+
+in Japanese, start thinking:
+
+**"can't ～"**
+
+That's a very useful pattern to recognize while listening to Japanese songs/anime.
