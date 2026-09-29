@@ -5,7 +5,6 @@
 > Japanese → Romaji → English → Vocabulary & Grammar
 
 ---
-
 ## 🎵 Intro
 
 ### 羽ばたいたら — Habataitara
