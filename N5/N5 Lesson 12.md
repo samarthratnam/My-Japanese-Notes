@@ -788,19 +788,19 @@ Group の中で + N が + 一番 + Adj です。
 ---
 
 # 📌 LESSON 12 GRAMMAR CHEAT SHEET
+|Grammar Pattern|Japanese|Romaji|Meaning|
+|---|---|---|---|
+|Noun/な-adj past|N / な-adj + でした|N / na-adj + deshita|was/were|
+|Noun/な-adj past negative|N / な-adj + じゃありませんでした|N / na-adj + ja arimasen deshita|was not|
+|い-adj past|～い → ～かったです|~i → ~katta desu|was ...|
+|い-adj past negative|～い → ～くなかったです|~i → ~kunakatta desu|was not ...|
+|How was?|N は どうでしたか|N wa dou deshita ka|How was N?|
+|Comparison|N1 は N2 より Adj|N1 wa N2 yori Adj|N1 is more Adj than N2|
+|Strong comparison|N1 のほうが N2 より Adj|N1 no hou ga N2 yori Adj|N1 is more Adj than N2|
+|Which of two?|N1 と N2 と どちらが Adj?|N1 to N2 to dochira ga Adj?|Which is more Adj?|
+|Answer|N1 のほうが Adj|N1 no hou ga Adj|N1 is more Adj|
+|Superlative|Group の中で N が一番 Adj|Group no naka de N ga ichiban Adj|N is the most Adj|
 
-|Grammar|Pattern|Meaning|
-|---|---|---|
-|Noun/な-adj past|N / な-adj + でした|was/were|
-|Noun/な-adj past negative|N / な-adj + じゃありませんでした|was not|
-|い-adj past|～い → ～かったです|was ...|
-|い-adj past negative|～い → ～くなかったです|was not ...|
-|How was?|N は どうでしたか|How was N?|
-|Comparison|N1 は N2 より Adj|N1 is more Adj than N2|
-|Strong comparison|N1 のほうが N2 より Adj|N1 is more Adj than N2|
-|Which of two?|N1 と N2 と どちらが Adj?|Which is more Adj?|
-|Answer|N1 のほうが Adj|N1 is more Adj|
-|Superlative|Group の中で N が一番 Adj|N is the most Adj|
 
 ---
 

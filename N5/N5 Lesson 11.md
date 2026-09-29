@@ -10,40 +10,40 @@ I’ve kept your notes as the base and converted the handwritten romaji into **p
 
 ## 1. Basic Vocabulary
 
-|#|Japanese|Romaji|Meaning|
-|---|---|---|---|
-|1|子どもがいます|kodomo ga imasu|have a child / there is a child|
-|2|～にいます|~ni imasu|stay / be in a place|
-|3|かかります|kakarimasu|take (time/money)|
-|4|休みます|yasumimasu|take a day off / rest|
-|5|一つ|hitotsu|one|
-|6|二つ|futatsu|two|
-|7|三つ|mittsu|three|
-|8|四つ|yottsu|four|
-|9|五つ|itsutsu|five|
-|10|六つ|muttsu|six|
-|11|七つ|nanatsu|seven|
-|12|八つ|yattsu|eight|
-|13|九つ|kokonotsu|nine|
-|14|十|too|ten|
-|15|いくつ|ikutsu|how many?|
-|16|一人|hitori|one person|
-|17|二人|futari|two people|
-|18|～人|~nin|~ people|
-|19|～日|~nichi|~ days|
-|20|～枚|~mai|counter for flat/thin objects|
-|21|～回|~kai|number of times|
-|22|りんご|ringo|apple|
-|23|みかん|mikan|orange / mandarin|
-|24|サンドイッチ|sandoicchi|sandwich|
-|25|カレーライス|karee raisu|curry rice|
-|26|切手|kitte|postage stamp|
-|27|はがき|hagaki|postcard|
-|28|封筒|fuutou|envelope|
-|29|速達|sokutatsu|special delivery / express mail|
-|30|書留|kakitome|registered mail|
-|31|エアメール|ea meeru|airmail|
-|32|船便|funabin|sea mail|
+| #   | Japanese | Romaji          | Meaning                         |
+| --- | -------- | --------------- | ------------------------------- |
+| 1   | 子どもがいます  | kodomo ga imasu | have a child / there is a child |
+| 2   | ～にいます    | ~ni imasu       | stay / be in a place            |
+| 3   | かかります    | kakarimasu      | take (time/money)               |
+| 4   | 休みます     | yasumimasu      | take a day off / rest           |
+| 5   | 一つ       | hitotsu         | one                             |
+| 6   | 二つ       | futatsu         | two                             |
+| 7   | 三つ       | mittsu          | three                           |
+| 8   | 四つ       | yottsu          | four                            |
+| 9   | 五つ       | itsutsu         | five                            |
+| 10  | 六つ       | muttsu          | six                             |
+| 11  | 七つ       | nanatsu         | seven                           |
+| 12  | 八つ       | yattsu          | eight                           |
+| 13  | 九つ       | kokonotsu       | nine                            |
+| 14  | 十        | too             | ten                             |
+| 15  | いくつ      | ikutsu          | how many?                       |
+| 16  | 一人       | hitori          | one person                      |
+| 17  | 二人       | futari          | two people                      |
+| 18  | ～人       | ~nin            | ~ people                        |
+| 19  | ～日       | ~nichi          | ~ days                          |
+| 20  | ～枚       | ~mai            | counter for flat/thin objects   |
+| 21  | ～回       | ~kai            | number of times                 |
+| 22  | りんご      | ringo           | apple                           |
+| 23  | みかん      | mikan           | orange / mandarin               |
+| 24  | サンドイッチ   | sandoicchi      | sandwich                        |
+| 25  | カレーライス   | karee raisu     | curry rice                      |
+| 26  | 切手       | kitte           | postage stamp                   |
+| 27  | はがき      | hagaki          | postcard                        |
+| 28  | 封筒       | fuutou          | envelope                        |
+| 29  | 速達       | sokutatsu       | special delivery / express mail |
+| 30  | 書留       | kakitome        | registered mail                 |
+| 31  | エアメール    | ea meeru        | airmail                         |
+| 32  | 船便       | funabin         | sea mail                        |
 
 ---
 
