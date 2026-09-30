@@ -640,3 +640,5 @@ N が + clause
     
 
 **Total words: 62 | Total grammar points: 6**
+[[N5 Lesson 0 - Japneese]]
+[[N5 Lesson 1]]

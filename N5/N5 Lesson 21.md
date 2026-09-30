@@ -645,3 +645,4 @@ Do not interpret this shortened pattern simply as “don't”. Here `Vないと.
 - **Nakanakereba... ❌** — included in your notes only as an explicitly marked incorrect form; it is not treated as a vocabulary or grammar point.
     
 - **“shibaraku desu ne”** — your notes give the meaning “It's been a long time”; I kept that meaning without adding another interpretation.
+[[N5 Lesson 22]]

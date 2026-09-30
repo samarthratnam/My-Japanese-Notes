@@ -643,3 +643,4 @@ Used to ask **"What's the matter?"**
 - The notes give some health vocabulary only in romaji; the Japanese forms above were written from those romaji forms.
 - **先生 (sensei)** is listed in your notes as both doctor / teacher; both meanings are retained.
 - **大丈夫な** is kept as written in your notes, although the form commonly used before nouns/adjectives can differ depending on context.
+[[N5 Lesson 18]]

@@ -651,3 +651,5 @@ Used for informal **yes** and **no**.
 - **～ました (mashita)** appears in the notes only as part of the explanation of polite forms; no standalone example was provided, so it is retained in the vocabulary section without adding an example.
 
 **Total words: 103 | Total grammar points: 14**
+
+[[N5 Lesson 21]]

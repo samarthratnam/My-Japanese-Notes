@@ -1,4 +1,4 @@
-# Japanese Lesson 1 – Digital Notes
+[[N5 Lesson 1]]# Japanese Lesson 1 – Digital Notes
 
 > I've kept your notes as close as possible to what you've written and corrected a few spellings/romanization mistakes where needed. I've also added the proper Japanese script (Hiragana/Katakana/Kanji) wherever helpful.
 

@@ -565,3 +565,5 @@ These verb conversions are used in the lesson's `Vて` patterns.
     
 
 **Total words: 59 | Total grammar points: 10**
+
+[[N5 Lesson 25]]

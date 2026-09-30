@@ -1134,3 +1134,5 @@ Meaning:
 > **First learn the て-form → then use it with います for ongoing actions and ください for polite requests.**
 
 **て-form → ています → てください**
+
+[[N5 Lesson 15]]

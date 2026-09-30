@@ -462,3 +462,4 @@ These expressions have different uses in conversation.
 
 - **お茶 (o-cha):** corrected from "tea ceremony" to **tea** because お茶 itself means tea.
 - The notes use **25-sai** in romaji; the Japanese form is **25歳 (にじゅうごさい)** if written fully in Japanese.
+[[N5 Lesson 20]]

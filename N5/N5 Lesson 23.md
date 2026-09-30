@@ -589,3 +589,4 @@ Place + を + movement verb
 - **おしょうがつ** and **お正月** both appeared in the notes; they refer to the same word. The standard romaji is **oshōgatsu** ✏️.
     
 - **ごちそうさまでした** had broken romaji in the notes; standard romaji is **gochisōsama deshita** ✏️.
+[[N5 Lesson 24]]

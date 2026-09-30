@@ -523,3 +523,5 @@ Do not use **どの** alone. Use **どの + noun**.
 |みどり|The note gives **“green / greenery”**; both meanings are retained.|
 
 **Total words: 54 | Total grammar points: 7**
+
+[[N5 Lesson 17]]

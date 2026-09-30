@@ -504,3 +504,4 @@ When you see **V-te imasu**, ask whether it describes a **continuing state** or 
 - **もらってもいいですか** was kept as “May I have this catalog?” because that is the meaning provided in the notes.
     
 - **日本橋** was kept with the provided reading **Nihombashi**.
+[[N5 Lesson 16]]

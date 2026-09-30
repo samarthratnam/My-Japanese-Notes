@@ -496,3 +496,5 @@ Put the noun at the END
     
 
 **Total words: 24 | Total grammar points: 7**
+
+[[N5 Lesson 23]]

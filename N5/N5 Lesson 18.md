@@ -516,3 +516,4 @@ zehi
 - **できません / dekimasen** appears in examples, but **できません** was not separately listed in the vocabulary. It is the negative form of **できます**, so it has been retained because it appears in your grammar notes.
 - **払う (はらう)** appears in **カードではらうことができます**, but its vocabulary entry is not provided in the notes. I retained the sentence because it is part of your grammar notes. ✏️
 - **音楽 (おんがく)** and **聞く (きく)** appear in the grammar examples but are not separately listed in the vocabulary section. They have been retained because they appear in your notes.
+[[N5 Lesson 19]]

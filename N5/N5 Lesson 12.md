@@ -917,3 +917,4 @@ Think of Lesson 12 as **4 steps**:
 **Past → より → どちら → 一番**
 
 That is the core of Lesson 12.
+[[N5 Lesson 13]]
