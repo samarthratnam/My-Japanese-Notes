@@ -1578,5 +1578,8 @@ Teacher asks student to write.
 [[N5 Lesson 25]]
 
 [[Lyrical - Explainations]]
+[[Kanji]]
 
 [[N5 Particles CheatSheet]]
+
+[[Kanji]]

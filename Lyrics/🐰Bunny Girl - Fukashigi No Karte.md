@@ -990,3 +990,4 @@ in Japanese, start thinking:
 **"can't ～"**
 
 That's a very useful pattern to recognize while listening to Japanese songs/anime.
+[[🦊KANA-BOON - Silhouette]]

@@ -278,12 +278,12 @@ Used to say **"must / have to..."**
 
 **Examples:**
 
-|Japanese|Romaji|English|
-|---|---|---|
-|薬を飲まなければなりません。|Kusuri o nomanakereba narimasen.|I must take medicine.|
-|明日来なければなりません。|Ashita konakereba narimasen.|I must come tomorrow.|
-|土曜日までに本を返さなければなりません。|Doyoubi made ni hon o kaesanakereba narimasen.|I must return the book by Saturday.|
-|パスポートを見せなければなりません。|Pasupooto o misenakereba narimasen.|You must show your passport.|
+| Japanese             | Romaji                                         | English                             |
+| -------------------- | ---------------------------------------------- | ----------------------------------- |
+| 薬を飲まなければなりません。       | Kusuri o nomanakereba narimasen.               | I must take medicine.               |
+| 明日来なければなりません。        | Ashita konakereba narimasen.                   | I must come tomorrow.               |
+| 土曜日までに本を返さなければなりません。 | Doyoubi made ni hon o kaesanakereba narimasen. | I must return the book by Saturday. |
+| パスポートを見せなければなりません。   | Pasupooto o misenakereba narimasen.            | You must show your passport.        |
 
 ---
 
@@ -305,12 +305,12 @@ Used to say **"don't have to..."** or that it is okay not to do something.
 
 **Examples:**
 
-|Japanese|Romaji|English|
-|---|---|---|
-|明日来なくてもいいです。|Ashita konakute mo ii desu.|You don't have to come tomorrow.|
-|お金を払わなくてもいいです。|Okane o harawanakute mo ii desu.|You don't have to pay.|
-|レポートを出さなくてもいいです。|Repooto o dashinakute mo ii desu.|You don't have to submit the report.|
-|子どもは払わなくてもいいです。|Kodomo wa harawanakute mo ii desu.|Children don't have to pay.|
+| Japanese         | Romaji                             | English                              |
+| ---------------- | ---------------------------------- | ------------------------------------ |
+| 明日来なくてもいいです。     | Ashita konakute mo ii desu.        | You don't have to come tomorrow.     |
+| お金を払わなくてもいいです。   | Okane o harawanakute mo ii desu.   | You don't have to pay.               |
+| レポートを出さなくてもいいです。 | Repooto o dashinakute mo ii desu.  | You don't have to submit the report. |
+| 子どもは払わなくてもいいです。  | Kodomo wa harawanakute mo ii desu. | Children don't have to pay.          |
 
 ---
 

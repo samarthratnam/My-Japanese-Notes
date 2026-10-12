@@ -334,7 +334,7 @@ Ask **how** or **in what way** something is done.
 
 **Structure:**
 
-> **どうやって + Sentence?**
+> *どうやって + Sentence?
 
 **Explanation:**
 

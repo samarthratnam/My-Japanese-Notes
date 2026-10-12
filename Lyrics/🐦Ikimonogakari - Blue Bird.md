@@ -534,3 +534,5 @@ The repeated **青い青いあの空 (aoi aoi ano sora)** — _that blue, blu
 > **青い空 (aoi sora)** → blue sky
 
 **Blue Bird = freedom, leaving the cage, accepting the possibility of falling, and continuing toward the future anyway.**
+
+[[🐰Bunny Girl - Fukashigi No Karte]]
